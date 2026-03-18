@@ -59,3 +59,22 @@ SEPARATORS = ["\n## ", "\n### ", "\n\n", "\n", " ", ""]
 BATCH_SIZE = 20
 
 
+# STEP(3) --> 03_rag_chatbot_langchain_LLM_Mistral.py
+
+# -----------------------------
+# Chemins FAISS et métadonnées
+# -----------------------------
+FAISS_INDEX_PATH = Path("../vector_store/faiss_index/index.faiss")
+METADATA_PATH = Path("../vector_store/faiss_index/metadata.pkl")
+
+# -----------------------------
+# Modèles Mistral
+# -----------------------------
+MODEL_EMBED = "mistral-embed"              # modèle pour embeddings
+MODEL_LLM = "mistral-small-latest"        # modèle pour génération de texte
+
+
+# -----------------------------
+# Paramètres recherche vectorielle
+# -----------------------------
+TOP_K = 3  # nombre de documents les plus proches à récupérer
