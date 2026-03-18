@@ -31,3 +31,31 @@ OUTPUT_PATH = Path(os.getenv("EVENTS_CSV_PATH", "../data/events_clean.csv"))
 MD_OUTPUT_DIR = Path(os.getenv("MD_OUTPUT_DIR", "../data/docs_md"))
 
 
+# STEP(2) --> 02_pipeline_rag_chunk_embeddings_indexation.py
+
+# -----------------------------
+# Chemins fichiers/dossiers embeddings
+# -----------------------------
+CSV_INPUT_PATH = Path(os.getenv("CSV_INPUT_PATH", "../data/events_clean.csv"))
+EMBEDDINGS_OUTPUT = Path(os.getenv("EMBEDDINGS_OUTPUT", "../vector_store/events_embeddings.pkl"))
+FAISS_INDEX_PATH = Path(os.getenv("EMBEDDINGS_OUTPUT", "../vector_store/faiss_index"))
+
+# -----------------------------
+# Clés API et modèles Mistral
+# -----------------------------
+API_KEY = os.getenv("MISTRAL_API_KEY", "your_api_key")
+MODEL_EMBED_NAME = "mistral-embed"
+
+# -----------------------------
+# Paramètres chunking
+# -----------------------------
+CHUNK_SIZE = 500
+CHUNK_OVERLAP = 50
+SEPARATORS = ["\n## ", "\n### ", "\n\n", "\n", " ", ""]
+
+# -----------------------------
+# Paramètres batch pour embeddings
+# -----------------------------
+BATCH_SIZE = 20
+
+
