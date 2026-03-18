@@ -1,0 +1,11 @@
+# Environnement virtuel
+venv/
+.env/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
