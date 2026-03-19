@@ -6,6 +6,11 @@ venv/
 __pycache__/
 *.pyc
 
+# FAISS & embeddings: Data / output
+vector_store/*.pkl
+vector_store/faiss_index/
+
 # OS
 .DS_Store
 Thumbs.db
+
