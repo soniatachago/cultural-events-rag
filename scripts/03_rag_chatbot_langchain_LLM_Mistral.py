@@ -13,11 +13,25 @@ import numpy as np
 from mistralai import Mistral
 from langchain.prompts import PromptTemplate
 import config
+from dotenv import load_dotenv
+import os
+
+
+# -----------------------------
+# CHARGEMENT DES VARIABLES D'ENVIRONNEMENT
+# -----------------------------
+load_dotenv()
+
+API_KEY = os.getenv("MISTRAL_API_KEY")
+
+if not API_KEY:
+    raise ValueError("❌ La clé API Mistral est introuvable. Vérifie ton fichier .env")
+
 
 # -----------------------------
 # INITIALISATION CLIENT MISTRAL
 # -----------------------------
-client = Mistral(api_key=config.API_KEY)
+client = Mistral(api_key=API_KEY)
 
 
 # -----------------------------

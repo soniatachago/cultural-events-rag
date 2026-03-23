@@ -13,11 +13,25 @@ import pickle
 import numpy as np
 import faiss
 import config
+from dotenv import load_dotenv
+import os
+
+
+# -----------------------------
+# CHARGEMENT DES VARIABLES D'ENVIRONNEMENT
+# -----------------------------
+load_dotenv()
+
+API_KEY = os.getenv("MISTRAL_API_KEY")
+
+if not API_KEY:
+    raise ValueError("❌ La clé API Mistral est introuvable. Vérifie ton fichier .env")
+
 
 # -----------------------------
 # INITIALISATION CLIENT MISTRAL
 # -----------------------------
-client = Mistral(api_key=config.API_KEY)
+client = Mistral(api_key=API_KEY)
 
 # -----------------------------
 # CHARGEMENT DES ÉVÉNEMENTS
@@ -133,13 +147,13 @@ def save_embeddings(embeddings: list, output_path: Path):
 # -----------------------------
 # CONSTRUCTION DE L'INDEX FAISS
 # -----------------------------
-def build_faiss_index_from_embeddings(embeddings: list, index_path: Path):
+def build_faiss_index_from_embeddings(embeddings: list, index_dir: Path):
     """
     Crée un index FAISS et sauvegarde les vecteurs et métadonnées.
 
     Args:
         embeddings (list): Liste d'embeddings avec metadata.
-        index_path (Path): Répertoire de sauvegarde de l'index.
+        index_dir (Path): Répertoire de sauvegarde de l'index FAISS et métadonnées.
     
     Returns:
         index, metadata
@@ -151,11 +165,25 @@ def build_faiss_index_from_embeddings(embeddings: list, index_path: Path):
     index.add(vectors)
     print(f"✅ Index FAISS créé avec {index.ntotal} vecteurs")
 
-    index_path.mkdir(parents=True, exist_ok=True)
-    faiss.write_index(index, f"{index_path}/index.faiss")
-    with open(f"{index_path}/metadata.pkl", "wb") as f:
+    # Assurer que le répertoire existe
+    index_dir.mkdir(parents=True, exist_ok=True)
+
+    index_file = index_dir / "index.faiss"
+    metadata_file = index_dir / "metadata.pkl"
+	
+	# Supprimer les anciens fichiers si présents
+    if index_file.exists():
+        index_file.unlink()   # supprime index.faiss
+    if metadata_file.exists():
+        metadata_file.unlink()  # supprime metadata.pkl
+	
+	# Sauvegarder
+    faiss.write_index(index, str(index_file))
+    # faiss.write_index(index, f"{index_dir}/index.faiss")
+    with open(metadata_file, "wb") as f:
         pickle.dump(metadata, f)
-    print(f"✅ Index FAISS et métadonnées sauvegardés dans {index_path}")
+
+    print(f"✅ Index FAISS et métadonnées sauvegardés dans {index_dir}")
     return index, metadata
 
 # -----------------------------
@@ -194,13 +222,13 @@ def main():
     save_embeddings(embeddings, config.EMBEDDINGS_OUTPUT)
 
     print("📂 Construction de l'index FAISS à partir des embeddings existants...")
-    index, metadata = build_faiss_index_from_embeddings(embeddings, config.FAISS_INDEX_PATH)
+    index, metadata = build_faiss_index_from_embeddings(embeddings, config.FAISS_INDEX_DIR)
 
-    query = "Visite sensorielle"
-    results = semantic_search(query, index, metadata, k=3)
-    print(f"\n🔎 Résultats de la recherche : {query}")
-    for r in results:
-        print(f"- {r['title']} ({r['start_date']}) - {r['city']}")
+    # query = "Visite sensorielle"
+    # results = semantic_search(query, index, metadata, k=3)
+    # print(f"\n🔎 Résultats de la recherche : {query}")
+    # for r in results:
+        # print(f"- {r['title']} ({r['start_date']}) - {r['city']}")
 
 if __name__ == "__main__":
     main()

@@ -1,17 +1,39 @@
-from mistralai import Mistral
+import sys
 from pathlib import Path
+
+# Ajouter le dossier scripts au path
+sys.path.append(str(Path(__file__).resolve().parent.parent / "scripts"))
+
+import config
+
+from mistralai import Mistral
 import pandas as pd
 import pickle
 import os
+from dotenv import load_dotenv
+
+
+# -----------------------------
+# CHARGEMENT DES VARIABLES D'ENVIRONNEMENT
+# -----------------------------
+load_dotenv()
+
+API_KEY = os.getenv("MISTRAL_API_KEY")
+
+if not API_KEY:
+    raise ValueError("❌ La clé API Mistral est introuvable. Vérifie ton fichier .env")
+
+
 
 # -----------------------------
 # CONFIGURATION
 # -----------------------------
-CSV_INPUT_PATH = "../data/events_clean.csv"           # CSV des événements pré-traités
-EMBEDDINGS_OUTPUT = "../vector_store/events_embeddings.pkl"  # Fichier de sortie embeddings
-MODEL_EMBED_NAME = "mistral-embed"                # Modèle Mistral pour embeddings
-API_KEY = "3IDz1gqFwh7e9IWYcyp0hFiCpiMEIxwi"                         # Remplacer par ta clé API Mistral
-BATCH_SIZE = 20                                   # Nombre de textes par batch
+CSV_INPUT_PATH = config.CSV_INPUT_PATH			# CSV des événements pré-traités
+EMBEDDINGS_OUTPUT = config.EMBEDDINGS_OUTPUT  	# Fichier de sortie embeddings
+MODEL_EMBED_NAME = config.MODEL_EMBED        # Modèle Mistral pour embeddings
+
+
+BATCH_SIZE = config.BATCH_SIZE				# Nombre de textes par batch
 
 # -----------------------------
 # INITIALISATION CLIENT MISTRAL

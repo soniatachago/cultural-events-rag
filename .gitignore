@@ -1,14 +1,20 @@
+# Ignorer le fichier de configuration local
+config.py
+
 # Environnement virtuel
 venv/
-.env/
+.env
 
-# Python
+# Fichiers Python compilés
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
 
-# FAISS & embeddings: Data / output
-vector_store/*.pkl
-vector_store/faiss_index/
+# Données volumineuses / sorties
+data/
+vector_store/
+
 
 # OS
 .DS_Store

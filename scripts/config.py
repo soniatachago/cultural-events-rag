@@ -64,8 +64,10 @@ BATCH_SIZE = 20
 # -----------------------------
 # Chemins FAISS et métadonnées
 # -----------------------------
-FAISS_INDEX_PATH = Path("../vector_store/faiss_index/index.faiss")
-METADATA_PATH = Path("../vector_store/faiss_index/metadata.pkl")
+FAISS_INDEX_DIR = Path("../vector_store/faiss_index")
+
+FAISS_INDEX_PATH = FAISS_INDEX_DIR / "index.faiss"
+METADATA_PATH = FAISS_INDEX_DIR / "metadata.pkl"
 
 # -----------------------------
 # Modèles Mistral
