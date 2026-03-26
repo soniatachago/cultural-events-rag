@@ -29,7 +29,7 @@
   {
     "id": 4,
     "question": "Quels événements culturels récents à Paris ?",
-    "expected_city": "Paris",
+    "expected_city": "Marseille",
     "max_age_days": 365,
     "keywords_expected": ["festival", "concert"],
     "expected_result": ["événement_paris1", "événement_paris2"],
