@@ -1,0 +1,13 @@
+# 📣 ⚠️ Cybersécurité êtes-vous prêts ?
+
+                - Event_id : 27476526
+                - Type évènement : None
+                - Date de début : 2025-05-23T06:30:00+00:00
+                - Date de fin : 2025-05-23T07:30:00+00:00
+                - Ville : Marseille
+                - Lieu : CCI PACA
+                - Région : Provence-Alpes-Côte d'Azur
+
+                ## Description Complète
+                <p>La fédération Cinov et Cinov Digital ont le plaisir de vous inviter à un webinaire sur le thème « Cybersécurité » le vendredi 23 mai 2025 de 8h30 à 9h30 :<br>Le paysage de la cybersécurité est en pleine transformation !<br>Adoptée par le Sénat en mars dernier, la transposition de la directive Network and Information Security (NIS 2) par l’assemblée nationale est en passe d’être finalisée.<br>Il en est de même pour la directive Digital Operational Resilience Act (DORA) également adoptée par le Sénat en mars dernier et qui s’applique spécifiquement aux entités financières et à leur fournisseurs numériques.<br>Enfin, l’adoption du Cyber Resilience Act (CRA) qui touchera plus largement tout fournisseur de technologie numérique est-elle prévue en 2027.<br>Ces évolutions impactent déjà significativement l’environnement réglementaire Français et Européen de la cybersécurité.<br>Face à cette situation, se protéger face au risque cyber ne représente plus seulement une mesure de prévention du risque financier et d’image, cela devient de plus en plus une obligation règlementaire, et si l’on considère la chaine logistique, un prérequis commercial de crédibilité pour répondre à un appel d’offre ou à une demande de consultation commerciale.<br>Rejoignez-nous le vendredi 23 mai pour :<br>· Comprendre l’impact des nouvelles règlementations cyber pour votre entreprise,<br>· Découvrir le dispositif MonAideCyber de l’ANSII afin de bénéficier gratuitement d’un diagnostic cyber 1er niveau pour votre société<br>· Connaitre le fonctionnement de la plateforme 17 cyber de cybermalveillance.gouv.fr<br>· Explorer le fonctionnement de la police d’assurance cyber</p> <p>Intervenants :<br>Jean-Paul EUTROPE, président de DIGI Partners, Administrateur de Cinov Digital, Mandataire auprès du GIP ACYMA de Cybermalveillance.gouv.fr<br>Jérôme BRETTE, Dirigeant de COGESSUR, Cabinet de courtage en assurances<br>Animation :<br>Sylvie PLOUCHARD, présidente de Diamorphose Past Présidente de SIMACS, Exécutive Coach HEC</p>
+            

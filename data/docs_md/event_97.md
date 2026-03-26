@@ -1,0 +1,13 @@
+# Rouvrir le monde : "Vidéo Satisfaisante" - Juliette Guérin
+
+                - Event_id : 85158596
+                - Type évènement : None
+                - Date de début : 2025-08-11T07:30:00+00:00
+                - Date de fin : 2025-08-11T09:30:00+00:00
+                - Ville : Marseille
+                - Lieu : Jeanne Barret
+                - Région : Provence-Alpes-Côte d'Azur
+
+                ## Description Complète
+                <p>"Les ateliers que je propose sont directement liés à ma pratique artistique, qui mêle vidéo, performance, sculpture, photographie et installation. J’ai développé au fur et a mesure une méthode de création collective et participative, qui permet à différents publics de collaborer à des œuvres communes. Ces projets visent à stimuler la créativité et l’esprit d’équipe autour de thématiques actuelles.<br>Les sujets abordés sont souvent autour de la nourriture, du corps, des réseaux sociaux et de la publicité, toujours à travers une approche artistique ancrée dans la culture populaire et la société de consommation. Mon objectif est de transmettre un lien entre l’art et le quotidien, et d’amener les participant·e·s à questionner leur environnement de manière ludique et sensible et critique.<br>Dans le cadre de la résidence Rouvrir le Monde 2025, je propose un atelier de création de vidéos courtes, inspirées du phénomène viral des contenus dits "Oddly Satisfying". Ces vidéos, populaires sur les réseaux sociaux, montrent des gestes répétitifs et des matières étonnantes (slime, savon, pâte, objets du quotidien...) manipulées, pressées, découpées ou écrasées, provoquant une sensation de plaisir sensoriel. Ces vidéos sont apparues dans la suite des tendances ASMR (chuchotement).<br>À partir de ce format, les participant·e·s seront invité·e·s à imaginer et mettre en scène des gestes absurdes, étranges ou comiques, empruntés au quotidien. Ensemble, nous détournerons ces codes visuels pour réfléchir avec humour à notre rapport à la consommation et à l’image,notamment à travers les réseaux sociaux." Juliette Guérin</p> <p>Le projet comprendra plusieurs étapes de création :<br>• Écriture collective et création d’un storyboard, pour penser les gestes, les matériaux, les effets visuels et le rythme des vidéos.<br>• Mise en place d’un petit studio vidéo : les participant·e·s découvriront les bases de la prise de vue, l’importance du cadrage, de l’éclairage, et des ambiances sonores.<br>• Expérimentations avec la lumière et le fond vert, pour permettre des incrustations ou renforcer l'effet hypnotique.<br>• Tournage et Montage de la vidéo.</p> <p>Avec le CMA Denis Papin</p>
+            

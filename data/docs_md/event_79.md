@@ -1,0 +1,13 @@
+# Créations et fresque participative
+
+                - Event_id : 1816185
+                - Type évènement : None
+                - Date de début : 2025-07-08T07:30:00+00:00
+                - Date de fin : 2025-07-08T09:30:00+00:00
+                - Ville : Marseille
+                - Lieu : Centre social Tivoli
+                - Région : Provence-Alpes-Côte d'Azur
+
+                ## Description Complète
+                <p>Le centre social Tivoli possède un toit terrasse avec une vue imprenable sur Marseille. On y voit l’aménagement urbain, la mer, les collines environnantes. C’est un point de rassemblement idéal pour les jeunes, et qui leur permet d’apprécier la beauté de leur territoire. Les murs de cette terrasse pourraient être exploités afin de réaliser un fresque collaborative avec les jeunes du centre. Ils s’approprieront ainsi le centre social, ainsi que leur environnement urbain. Dans une ville comme Marseille, nature et pollution se côtoient en permanence. Le thème de la fresque serait orienté autour de la préservation de l’environnement.<br>Objectif de l’atelier : éveiller les jeunes à la richesse de la faune et la flore de Marseille, tout en les sensibilisant au problème de la pollution plastique, par la réalisation d’une fresque, intégrant de la peinture et des éléments en volume issus de déchets plastiques.<br>L’atelier pourrait se dérouler ainsi :<br>Une première séance dans laquelle je présente mon univers coloré, qui met en scène des éléments naturels et animaux dans un registre pop et joyeux.<br>Je leur montre à travers mes créations upcyclées comment on peut s’inspirer des déchets plastiques récoltés dans la rue, pour les détourner, et leur donner l’aspect d’animaux marins, de fleurs...<br>Les séances qui suivent seraient dédiées à la récolte de d’images d’animaux et de nature des environs, ainsi qu’à la collecte de déchets plastiques récupérés par les jeunes dans leur quartier, et dans le centre social. Une séance peut être consacrée à la visite de l’exposition «Océans» sur la protection des fonds marins, qui a lieu du 22 mars au 13 juillet au Museum d’Histoires naturelles de Marseille.<br>A partir de cette matière, nous imaginerons la composition de la fresque, entre éléments peints, et déchets plastiques découpés et peints pour amener du relief dans la fresque. Certains animaux seront directement inspirés de la forme du déchet récolté.<br>La deuxième semaine sera consacrée à la réalisation de la fresque et pourrait se conclure par une restitution publique lors d’une sortie collective de résidence.</p>
+            

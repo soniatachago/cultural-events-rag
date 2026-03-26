@@ -1,0 +1,13 @@
+# DOCVILLE / Projection-débat du film "Fernand Pouillon, l’architecte le plus recherché de France" de Jean-Marie Montangerand
+
+                - Event_id : 51021696
+                - Type évènement : None
+                - Date de début : 2025-04-29T16:00:00+00:00
+                - Date de fin : 2025-04-29T18:00:00+00:00
+                - Ville : Marseille
+                - Lieu : Musée d'Histoire de Marseille
+                - Région : Provence-Alpes-Côte d'Azur
+
+                ## Description Complète
+                <p>Dans le cadre du cycle <em>DOCVILLE</em> consacré à l'architecture et aux territoires urbains, Image de ville s'associe au Musée d'Histoire de Marseille et à la Maison de l’architecture et de la ville PACA pour une projection-débat autour du film <em>Fernand Pouillon, l’architecte le plus recherché de France</em> de Jean-Marie Montangerand mardi 29 avril à 18h au Musée d'Histoire de Marseille.</p> <p><em><strong>Fernand Pouillon, l’architecte le plus recherché de France</strong></em> <strong>de Jean-Marie Montangerand</strong><br>(documentaire / France / 2023 / 52min.)<br>L'oeuvre de Fernand Pouillon, l'architecte "le plus recherché de France" après avoir été emprisonné et s'être mystérieusement échappé dans les années soixante, semble aujourd'hui être passée en arrière-plan. Il a pourtant construit en 50 ans plus de 5 millions de mètres carrés, principalement entre la France et l'Algérie, à un rythme effréné, parcourant des dizaines de milliers de kilomètres par semaine, en avion à hélice, pour se rendre sur des chantiers la nuit ou à l'aube entre Marseille, Paris, Alger ou en plein milieu du désert, jusqu'à se brûler les ailes. Entre autres, Fernand Pouillon s'est résolu à construire des habitations pour les plus modestes. À ce qu'on nomme la "pathologie" des grands ensembles, la beauté et la qualité des cités de Fernand Pouillon, nous prouvent aujourd'hui que cet architecte, tant décrié, avait peut-être trouvé un remède.</p> <p><em>La projection sera suivie d’un échange entre Guy Boyer, directeur de rédaction de la revue Connaissance des Arts, président de l'association pour les Musées de Marseille, et Jade Peirano, membre de la MAV PACA, architecte DPLG / Architecte du patrimoine, agence Peirano Taller.</em></p> <p>Plus d'infos : <a href="https://imagedeville.org/seances/fernand-pouillon-larchitecte-le-plus-recherche-de-france-4/">https://imagedeville.org/seances/fernand-pouillon-larchitecte-le-plus-recherche-de-france-4/</a></p>
+            

@@ -1,0 +1,13 @@
+# LES LUNDIS DE LA TRANSITION : Marseille résiliente, la ville face aux défis climatiques
+
+                - Event_id : 92555992
+                - Type évènement : None
+                - Date de début : 2025-05-19T16:00:00+00:00
+                - Date de fin : 2025-05-19T17:30:00+00:00
+                - Ville : Marseille
+                - Lieu : Ordre des architectes PACA
+                - Région : Provence-Alpes-Côte d'Azur
+
+                ## Description Complète
+                <p><strong>Face aux défis du changement climatique, les villes doivent évoluer pour devenir plus résilientes et mieux adaptées aux crises environnementales.</strong><br>Cette table ronde réunira des acteurs engagés – collectivités, aménageurs publics et experts – pour partager leurs expériences et explorer des solutions innovantes.<br>Des témoignages inspirants viendront nourrir la réflexion, notamment à travers :<br>✅ Des retours d’expérience d’élus sur les politiques d’adaptation mises en place.<br>✅ Des initiatives concrètes d’aménageurs, sur l’aménagement de nouveaux quartiers.<br><strong>&gt;&gt;&gt; INSCRIPTIONS</strong> <a href="https://www.marseille.fr/lundi-transition-19-mai"><strong>ICI</strong></a> <strong>&lt;&lt;&lt;</strong><br>-------<br>Avec les participations de :<br>. <strong>Julie ROUSSEL</strong>, cheffe du département "Adaptation au Changement Climatique" à la Ville de Paris (elle reviendra sur l’exercice de crise « PARIS À 50 °C » : un jeu de rôle grandeur nature, inédit à l’échelle mondiale, réalisé par la Ville de Paris pour tester sa capacité à affronter des vagues de chaleur extrême)<br><strong>. Sébastien BARLES</strong>, adjoint au Maire de Marseille délégué à la transition écologique pour la Ville de Marseille (il évoquera les projets en cours au sein de notre ville)<br><strong>. Stéphane GHIO</strong>, directeur de la stratégie, du développement et de l'innovation chez Euroméditerranée (aménageur engagé de près de 500 hectares de la Ville de Marseille)<br><strong>.</strong> <strong>Stéphanie GAUCHER,</strong> responsable technique nationale démarches systémiques au sein du bureau d'étude Inddigo (auteur de l'étude Marseille 2030-2050 : comment adapter la ville au changement climatique)<br>-------<br><strong>INFO PRATIQUES</strong><br>_Lieu : Accueil par la maison de l'architecture et de la ville dans les locaux de l'Ordre des architectes PACA (12 Bd T. Thurner 13006 Marseille / Métro ND-du-Mont)<br>_Date : lundi 19 mai 2025 à 18h<br>_entrée libre sur inscription <a href="https://www.marseille.fr/lundi-transition-19-mai">ici</a><br>-------</p>
+            
