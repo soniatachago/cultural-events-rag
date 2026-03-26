@@ -158,22 +158,22 @@ pip install -r requirements.txt
 
 Créer un fichier `.env` et ajouter: `MISTRAL_API_KEY = your_api_key`.
 
-### 5. Exécuter le pipeline
+### 5. Exécuter le pipeline depuis la racine du projet (`cultural-events-rag`)
 
 ```bash
 # Étape 1: Collecte des événements culturels et création du dataset CSV
-python 01_data_collection.py
+python -m scripts.step1_data_collection
 # Sortie: data/events_clean.csv
 
 # Étape 2: Transformation des textes, découpage en chunks, génération d'embeddings et indexation FAISS
-python 02_rag_indexing.py
+python -m scripts.step2_rag_indexing
 # Sortie: 
 #   vector_store/events_embeddings.pkl
 #   vector_store/faiss_index/index.faiss
 #   vector_store/faiss_index/metadata.pkl
 
 Étape 3: Lancer le chatbot RAG interactif
-python 03_rag_chatbot.py
+python -m scripts.step3_rag_chatbot
 
 ```
 
@@ -211,13 +211,60 @@ cultural-events-rag/
 │      ├─ index.faiss
 │      └─ metadata.pkl
 ├─ scripts/
-│  ├─ 01_data_collection.py         # Collecte et création du dataset CSV
-│  ├─ 02_rag_indexing.py   			# Chunking, génération d'embeddings et indexation FAISS
-│  ├─ 03_rag_chatbot.py              # Chatbot interactif RAG utilisant Mistral + FAIS
+│  ├─ step1_data_collection.py         # Collecte et création du dataset CSV
+│  ├─ step2_rag_indexing.py   			# Chunking, génération d'embeddings et indexation FAISS
+│  ├─ step3_rag_chatbot.py              # Chatbot interactif RAG utilisant Mistral + FAIS
 ├─ README.md                       # Documentation principale
 ├─ requirements.txt                 # Dépendances Python
 ├─ .env                             # Variables d'environnement (clé API)
 ├─ config.py                        # Configuration centralisée (paths, modèles, batch_size, etc.)
+
+
+cultural-events-rag/
+│
+├─ data/                              # Données sources et nettoyées
+│  └─ events_clean.csv
+│
+├─ vector_store/                      # Stockage vectoriel
+│  ├─ events_embeddings.pkl           # Embeddings générés (Mistral)
+│  └─ faiss_index/
+│      ├─ index.faiss                 # Index FAISS (recherche vectorielle)
+│      └─ metadata.pkl                # Métadonnées associées aux vecteurs
+│
+├─ scripts/                           # Pipelines principaux
+│  ├─ __init__.py
+│  ├─ step1_data_collection.py        # Etape 1: Collecte OpenAgenda + nettoyage + création du dataset CSV
+│  ├─ step2_rag_indexing.py           # Etape 2: Chunking + embeddings + index FAISS
+│  ├─ step3_rag_chatbot.py            # Etape 3: Chatbot RAG (retrieval + génération Mistral)
+│  ├─ logger.py                       # Journalisation centralisé
+│  └─ config.py                       # Configuration centralisée
+│                                     # (paths, modèles, chunk_size, batch_size, etc.)
+│
+├─ tests/                             # Tests automatisés (pytest)
+│  ├─ test_data_collection.py         # Tests unitaires étape 1
+│  ├─ test_rag_indexing.py            # Tests unitaires étape 2
+│  ├─ test_deduplication.py           # Test de déduplication sur les chunks
+│  ├─ test_rag_chatbot.py             # Tests unitaires étape 3
+│  ├─ test_logger.py                  # Journalisation avec rotation quotidienne 
+│  └─ test_rag_evaluation.py          # Test d'évaluation de la pertinence du système RAG
+│
+├─ evaluation/                        # Évaluation globale du RAG
+│  ├─ qa_dataset.json                 # Dataset de questions métier
+│  ├─ test_rag_evaluation.py          # Interrogation du chatbot afin d'évaluer la qualité des réponses
+│  └─ rag_eval_results.json           # Résultats de l'évaluation du RAG
+│
+├─ logs/                              # Logs d'exécution (optionnel mais recommandé)
+│  └─ app.log                         # Logs pipeline + erreurs + debug
+│
+├─ pytest.ini                         # Configuration pour PyTest (tests unitaires et d’intégration)
+│
+├─ .env                               # Variables d’environnement (clé API Mistral)
+│
+├─ requirements.txt                   # Dépendances Python
+│
+├─ .gitignore                         # Liste des fichiers et dossiers à exclure du dépôt Git
+│
+└─ README.md                          # Documentation principale (GitHub)
 
 ```
 
