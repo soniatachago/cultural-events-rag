@@ -204,23 +204,6 @@ Ces deux événements offrent une belle occasion de profiter de la culture et de
 
 ```
 cultural-events-rag/
-├─ data/                        # Données CSV nettoyées des événements
-├─ vector_store/                # Embeddings et index FAISS
-│  ├─ events_embeddings.pkl
-│  └─ faiss_index/
-│      ├─ index.faiss
-│      └─ metadata.pkl
-├─ scripts/
-│  ├─ step1_data_collection.py         # Collecte et création du dataset CSV
-│  ├─ step2_rag_indexing.py   			# Chunking, génération d'embeddings et indexation FAISS
-│  ├─ step3_rag_chatbot.py              # Chatbot interactif RAG utilisant Mistral + FAIS
-├─ README.md                       # Documentation principale
-├─ requirements.txt                 # Dépendances Python
-├─ .env                             # Variables d'environnement (clé API)
-├─ config.py                        # Configuration centralisée (paths, modèles, batch_size, etc.)
-
-
-cultural-events-rag/
 │
 ├─ data/                              # Données sources et nettoyées
 │  └─ events_clean.csv
