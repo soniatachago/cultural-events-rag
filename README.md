@@ -177,6 +177,18 @@ python -m scripts.step3_rag_chatbot
 
 ```
 
+### 6. Exécuter les tests unitaires depuis la racine du projet (`cultural-events-rag`)
+
+```bash
+pytest tests/ -v
+```
+
+### 7. Exécuter les tests d'évaluation du système depuis la racine du projet (`cultural-events-rag`)
+
+```bash
+python -m evaluation.test_rag_evaluation
+```
+
 ### 6. Exemple d'utilisation
 
 ```text
