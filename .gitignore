@@ -1,22 +1,42 @@
-# Ignorer le fichier de configuration local
-config.py
 
-# Environnement virtuel
-venv/
+# =========================
+# ENVIRONNEMENT
+# =========================
 .env
+.env.*
 
-# Fichiers Python compilés
+# =========================
+# PYTHON
+# =========================
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
 
-# Données volumineuses / sorties
-data/
+# =========================
+# PYTEST
+# =========================
+.pytest_cache/
+
+# =========================
+# LOGS
+# =========================
+logs/
+*.log
+
+# =========================
+# DATA & VECTOR STORE
+# =========================
 vector_store/
+*.pkl
+*.faiss
 
-
+# =========================
 # OS
+# =========================
 .DS_Store
 Thumbs.db
+
+
+
 
