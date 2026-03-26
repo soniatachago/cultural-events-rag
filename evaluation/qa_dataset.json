@@ -1,0 +1,173 @@
+[
+  {
+    "id": 1,
+    "question": "Quels sont les événements culturels récents à Marseille ?",
+    "expected_city": "Marseille",
+    "max_age_days": 365,
+    "keywords_expected": ["festival", "concert", "exposition"],
+    "expected_result": ["événement1", "événement2"],
+    "description": "Recherche générale d’événements récents"
+  },
+  {
+    "id": 2,
+    "question": "Quels événements en plein air sont organisés à Marseille ?",
+    "expected_city": "Marseille",
+    "max_age_days": 365,
+    "keywords_expected": ["plein air", "extérieur", "parc"],
+    "expected_result": ["événement3", "événement4"],
+    "description": "Filtrage par type plein air"
+  },
+  {
+    "id": 3,
+    "question": "Quelles expositions récentes à Marseille ?",
+    "expected_city": "Marseille",
+    "max_age_days": 365,
+    "keywords_expected": ["exposition", "musée"],
+    "expected_result": ["exposition1", "exposition2"],
+    "description": "Filtrage par catégorie exposition"
+  },
+  {
+    "id": 4,
+    "question": "Quels événements culturels récents à Paris ?",
+    "expected_city": "Paris",
+    "max_age_days": 365,
+    "keywords_expected": ["festival", "concert"],
+    "expected_result": ["événement_paris1", "événement_paris2"],
+    "description": "Test multi-ville"
+  },
+  {
+    "id": 5,
+    "question": "Quels événements ont lieu cette semaine à Marseille ?",
+    "expected_city": "Marseille",
+    "max_age_days": 7,
+    "keywords_expected": ["aujourd'hui", "cette semaine"],
+    "expected_result": ["événement5", "événement6"],
+    "description": "Filtrage temporel court"
+  },
+  {
+    "id": 6,
+    "question": "Quels concerts récents à Marseille ?",
+    "expected_city": "Marseille",
+    "max_age_days": 365,
+    "keywords_expected": ["concert", "musique"],
+    "expected_result": ["concert1", "concert2"],
+    "description": "Filtrage par type musique"
+  },
+  {
+    "id": 7,
+    "question": "Quels événements pour enfants à Marseille ?",
+    "expected_city": "Marseille",
+    "max_age_days": 365,
+    "keywords_expected": ["enfant", "famille", "éducative"],
+    "expected_result": ["événement_enfant1", "événement_enfant2"],
+    "description": "Ciblage audience spécifique"
+  },
+  {
+    "id": 8,
+    "question": "Quels événements gratuits à Marseille ?",
+    "expected_city": "Marseille",
+    "max_age_days": 365,
+    "keywords_expected": ["gratuit"],
+    "expected_result": ["événement_gratuit1", "événement_gratuit2"],
+    "description": "Filtrage prix"
+  },
+  {
+    "id": 9,
+    "question": "Quels événements culturels dans la région PACA ?",
+    "expected_region": "PACA",
+    "max_age_days": 365,
+    "keywords_expected": ["festival", "culture", "événement"],
+    "expected_result": ["événement_PACA1", "événement_PACA2"],
+    "description": "Filtrage régional"
+  },
+  {
+    "id": 10,
+    "question": "Quels événements culturels ce week-end à Marseille ?",
+    "expected_city": "Marseille",
+    "max_age_days": 3,
+    "keywords_expected": ["week-end"],
+    "expected_result": ["événement_weekend1", "événement_weekend2"],
+    "description": "Filtrage temporel très court"
+  },
+  {
+    "id": 11,
+    "question": "Je cherche une activité sympa à faire à Marseille",
+    "expected_city": "Marseille",
+    "max_age_days": 365,
+    "keywords_expected": ["activité", "événement", "ludique", "récréatif", "créatif"],
+    "expected_result": ["activité1", "activité2"],
+    "description": "Question vague / langage naturel"
+  },
+  {
+    "id": 12,
+    "question": "Que faire ce soir à Marseille ?",
+    "expected_city": "Marseille",
+    "max_age_days": 1,
+    "keywords_expected": ["soir"],
+    "expected_result": ["événement_soir1", "événement_soir2"],
+    "description": "Demande temps réel"
+  },
+  {
+    "id": 13,
+    "question": "Y a-t-il des festivals de musique à Marseille ?",
+    "expected_city": "Marseille",
+    "max_age_days": 365,
+    "keywords_expected": ["festival", "musique", "concert"],
+    "expected_result": ["festival1", "festival2"],
+    "description": "Question orientée thème"
+  },
+  {
+    "id": 14,
+    "question": "Quels événements à New York ?",
+    "expected_city": "New York",
+    "max_age_days": 365,
+    "keywords_expected": [],
+    "expected_result": [],
+    "description": "Ville hors dataset"
+  },
+  {
+    "id": 15,
+    "question": "Quels événements en 2010 à Marseille ?",
+    "expected_city": "Marseille",
+    "max_age_days": 365,
+    "keywords_expected": [],
+    "expected_result": [],
+    "description": "Événements trop anciens"
+  },
+  {
+    "id": 16,
+    "question": "kdfjkdhxbvjdfbgvhjdfgjfdbv",
+    "expected_city": "Marseille",
+    "max_age_days": 365,
+    "keywords_expected": [],
+    "expected_result": [],
+    "description": "Questions incompréhensibles"
+  },
+  {
+    "id": 17,
+    "question": "Quels événements culturels intéressants à Marseille avec musique et en extérieur ?",
+    "expected_city": "Marseille",
+    "max_age_days": 365,
+    "keywords_expected": ["musique", "plein air", "extérieur", "concert"],
+    "expected_result": ["concert_exterieur1", "concert_exterieur2"],
+    "description": "Requête multi-critères"
+  },
+  {
+    "id": 18,
+    "question": "Recommande-moi des événements variés à Marseille",
+    "expected_city": "Marseille",
+    "max_age_days": 365,
+    "keywords_expected": ["festival", "expo", "concert", "visite", "balade", "concert", "cinema", "conférence", "webinaire", "formation", "excursion", "vélo", "cuisine", "exposition", "conservatoire"],
+    "expected_result": ["festival_varie1", "expo_varie1", "concert_varie1", "visite_varie1"],
+    "description": "Test diversité résultats"
+  },
+  {
+    "id": 19,
+    "question": "Quels événements proches de moi ?",
+    "expected_city": "Marseille",
+    "max_age_days": 365,
+    "keywords_expected": ["proche"],
+    "expected_result": ["événement_proche1", "événement_proche2"],
+    "description": "Cas géolocalisation implicite"
+  }
+]
