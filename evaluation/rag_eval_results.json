@@ -1,0 +1,328 @@
+[
+    {
+        "id": 1,
+        "question": "Quels sont les événements culturels récents à Marseille ?",
+        "expected_city": "Marseille",
+        "keywords_expected": [
+            "festival",
+            "concert",
+            "exposition"
+        ],
+        "expected_result": [
+            "événement1",
+            "événement2"
+        ],
+        "rag_response": "Voici les événements culturels récents à Marseille qui pourraient vous intéresser :\n\n1. **Visite sensorielle : balade des sens à travers l’histoire de Marseille**\n   - **Date** : 17 mai 2025 à 17h\n   - **Lieu** : Musée d'histoire de Marseille\n   - **Description** : Une expérience immersive où vous explorerez l’histoire de Marseille à travers vos sens (toucher, goût, odorat, ouïe). Parfait pour découvrir la vie quotidienne des Marseillais à travers les époques, avec des épices, des tissus, des sons et bien plus.\n   - **Public** : Tout public\n   - **Accès** : Sans réservation, dans la limite des places disponibles.\n\n2. **Exposition du concours d’idée \"Marseille ville récréative\"**\n   - **Date** : À partir du 17 juin 2025\n   - **Lieu** : Ordre des architectes PACA\n   - **Description** : Découvrez les projets lauréats et les propositions des participants (venant de France, Belgique, Italie et Malte) pour imaginer Marseille comme une ville ludique et créative. Une exposition qui met en avant des idées sensibles et innovantes.\n   - **À noter** : Cette exposition fait suite à la remise des prix qui a eu lieu le 16 mai au Palais du Pharo.\n\nCes deux événements offrent des approches uniques pour découvrir Marseille, que ce soit à travers une immersion sensorielle ou une réflexion sur l’avenir de la ville. Si vous souhaitez une expérience interactive, la visite sensorielle est idéale. Pour une vision artistique et prospective, l’exposition sur \"Marseille ville récréative\" est un excellent choix !",
+        "success": true,
+        "city_ok": true,
+        "keywords_ok": true
+    },
+    {
+        "id": 2,
+        "question": "Quels événements en plein air sont organisés à Marseille ?",
+        "expected_city": "Marseille",
+        "keywords_expected": [
+            "plein air",
+            "extérieur",
+            "parc"
+        ],
+        "expected_result": [
+            "événement3",
+            "événement4"
+        ],
+        "rag_response": "Voici les événements en plein air à Marseille qui pourraient vous intéresser :\n\n1. **Fête du Vélo à Malpassé**\n   - **Date** : 30 avril 2025 (de 14h à 17h)\n   - **Lieu** : Musée de la Moto, 18 traverse Saint Paul, 13013 Marseille\n   - **Description** : Une journée dédiée au vélo avec des surprises, organisée dans le cadre des Cités Éducatives. Parfait pour les amateurs de deux-roues et les familles !\n\n2. **Visite sensorielle : balade des sens à travers l’histoire de Marseille**\n   - **Date** : 17 mai 2025 (à 17h)\n   - **Lieu** : Musée d'histoire de Marseille\n   - **Description** : Une expérience immersive où vous pourrez toucher, sentir, goûter et écouter pour découvrir l’histoire de Marseille. Bien que partiellement en intérieur, cette visite inclut des éléments en plein air et une approche sensorielle unique.\n\nSi vous cherchez une expérience 100% en extérieur, la **Fête du Vélo à Malpassé** est le meilleur choix. Pour une immersion historique et sensorielle, la visite au Musée d'histoire de Marseille est une excellente alternative.",
+        "success": true,
+        "city_ok": true,
+        "keywords_ok": true
+    },
+    {
+        "id": 3,
+        "question": "Quelles expositions récentes à Marseille ?",
+        "expected_city": "Marseille",
+        "keywords_expected": [
+            "exposition",
+            "musée"
+        ],
+        "expected_result": [
+            "exposition1",
+            "exposition2"
+        ],
+        "rag_response": "Voici les expositions récentes à Marseille qui pourraient vous intéresser :\n\n1. **\"Marseille ville récréative\"** – Une exposition présentant les lauréats et participants du concours d’idées, mettant en avant des propositions innovantes et sensibles pour repenser la ville par le jeu et la découverte. À découvrir à l’**Ordre des architectes PACA** dès le **17 juin 2025**.\n\n2. **\"Océans\"** – Une exposition au **Muséum d’Histoire naturelle de Marseille** (du **22 mars au 13 juillet 2025**) sur la protection des fonds marins, qui pourrait inspirer des projets créatifs comme une fresque participative.\n\nSi vous aimez l’art urbain et l’écologie, la fresque participative en préparation au **Centre social Tivoli** pourrait aussi vous intéresser, avec des ateliers autour de la collecte de déchets et de la nature locale.\n\nBonne visite ! 🎨🌊",
+        "success": true,
+        "city_ok": true,
+        "keywords_ok": true
+    },
+    {
+        "id": 4,
+        "question": "Quels événements culturels récents à Paris ?",
+        "expected_city": "Marseille",
+        "keywords_expected": [
+            "festival",
+            "concert"
+        ],
+        "expected_result": [
+            "événement_paris1",
+            "événement_paris2"
+        ],
+        "rag_response": "Je ne trouve aucun événement culturel récent à Paris dans les informations fournies. Les événements disponibles concernent uniquement Marseille et ses alentours.\n\nSi vous souhaitez des recommandations pour d'autres villes ou des événements à Paris, je peux vous aider à chercher ailleurs ! 😊",
+        "success": false,
+        "city_ok": true,
+        "keywords_ok": false
+    },
+    {
+        "id": 5,
+        "question": "Quels événements ont lieu cette semaine à Marseille ?",
+        "expected_city": "Marseille",
+        "keywords_expected": [
+            "aujourd'hui",
+            "cette semaine"
+        ],
+        "expected_result": [
+            "événement5",
+            "événement6"
+        ],
+        "rag_response": "Voici les événements à Marseille **cette semaine** (du **17 au 24 mai 2025**) :\n\n### 🎯 **Top recommandations**\n1. **Visite sensorielle : balade des sens à travers l’histoire de Marseille**\n   📅 **17 mai à 17h** | 📍 Musée d'histoire de Marseille\n   Une expérience immersive pour découvrir Marseille à travers les 5 sens (épices, sons, textures…). **Idéal pour tous les publics** et sans réservation (places limitées).\n\n2. **Les Lundi de la transition : Marseille résiliente, la ville face aux défis climatiques**\n   📅 **19 mai à 16h** | 📍 Ordre des architectes PACA\n   Une conférence avec des élus et experts sur l’adaptation de Marseille aux changements climatiques. **Inscription obligatoire** [ici](https://www.marseille.fr/lundi-transition-19-mai).\n\n---\n### 📌 **Autre événement à noter**\n- **Exposition \"Marseille ville récréative\"** (concours d’idées)\n  📅 **Du 17 au 30 juin** | 📍 Ordre des architectes PACA\n  *À venir* (pas cette semaine, mais à noter pour juin).\n\n---\n**Conseil** : La visite sensorielle est parfaite pour une expérience originale, tandis que la conférence sur la transition climatique est idéale si vous vous intéressez aux enjeux urbains. 😊",
+        "success": true,
+        "city_ok": true,
+        "keywords_ok": true
+    },
+    {
+        "id": 6,
+        "question": "Quels concerts récents à Marseille ?",
+        "expected_city": "Marseille",
+        "keywords_expected": [
+            "concert",
+            "musique"
+        ],
+        "expected_result": [
+            "concert1",
+            "concert2"
+        ],
+        "rag_response": "Voici les concerts récents à Marseille qui pourraient vous intéresser :\n\n1. **Fun Radio Live - Grand Concert Gratuit à Marseille**\n   📅 **Date** : Samedi 21 juin 2025 à 19h\n   📍 **Lieu** : Plage Borély\n   🎤 **Artistes** : Jungeli, Keblack, Lenie, Lucas & Steve, Magic System, Petit Biscuit, The Avener\n   💡 **À noter** : Un concert gratuit et ouvert à tous, avec une ambiance électro et pop dans un cadre exceptionnel en bord de mer.\n\n2. **Visite sensorielle : balade des sens à travers l’histoire de Marseille**\n   📅 **Date** : Samedi 17 mai 2025 à 17h\n   📍 **Lieu** : Musée d'histoire de Marseille\n   🎶 **Animation musicale** : Concert carte blanche aux élèves du conservatoire Pierre Barbizet (piano, chant lyrique, flûtes, mandoline, guitares)\n   💡 **À noter** : Une expérience unique mêlant histoire, musique et découverte sensorielle.\n\nSi vous cherchez une ambiance festive et électro, le **Fun Radio Live** est parfait pour vous ! Pour une expérience plus intimiste et culturelle, la **balade sensorielle** avec les élèves du conservatoire pourrait vous séduire. 😊",
+        "success": true,
+        "city_ok": true,
+        "keywords_ok": true
+    },
+    {
+        "id": 7,
+        "question": "Quels événements pour enfants à Marseille ?",
+        "expected_city": "Marseille",
+        "keywords_expected": [
+            "enfant",
+            "famille",
+            "éducative"
+        ],
+        "expected_result": [
+            "événement_enfant1",
+            "événement_enfant2"
+        ],
+        "rag_response": "Voici les événements à Marseille qui pourraient particulièrement plaire aux enfants :\n\n1. **Visite sensorielle : balade des sens à travers l’histoire de Marseille**\n   📅 **17 mai 2025 à 17h**\n   📍 **Musée d'histoire de Marseille**\n   Une expérience immersive où les enfants pourront toucher, sentir et goûter des éléments de la vie quotidienne marseillaise à travers les âges. Idéal pour éveiller leur curiosité de manière ludique !\n\n2. **Fête du Vélo à Malpassé - Marseille**\n   📅 **30 avril 2025 de 14h à 17h**\n   📍 **Musée de la Moto, Marseille**\n   Un événement festif autour du vélo, avec des surprises et des activités adaptées aux enfants. Parfait pour allier sport, découverte et plaisir en famille.\n\nCes deux événements offrent des expériences interactives et adaptées aux plus jeunes. Si tu cherches une activité culturelle ou sportive, ces options devraient te convenir ! 😊",
+        "success": true,
+        "city_ok": true,
+        "keywords_ok": true
+    },
+    {
+        "id": 8,
+        "question": "Quels événements gratuits à Marseille ?",
+        "expected_city": "Marseille",
+        "keywords_expected": [
+            "gratuit"
+        ],
+        "expected_result": [
+            "événement_gratuit1",
+            "événement_gratuit2"
+        ],
+        "rag_response": "Voici les événements **gratuits** à Marseille qui pourraient vous intéresser :\n\n1. **Fun Radio Live - Grand Concert Gratuit à Marseille**\n   📅 **21 juin 2025** à **19h**\n   📍 **Plage Borély**\n   Un concert en plein air avec des artistes comme **Magic System, Petit Biscuit, The Avener** et bien d'autres ! Ambiance électro et pop garantie. Ouvert à tous, sans réservation.\n\n2. **Visite sensorielle : balade des sens à travers l’histoire de Marseille**\n   📅 **17 mai 2025** à **17h**\n   📍 **Musée d'histoire de Marseille**\n   Une visite originale où vous pourrez **toucher, sentir, goûter et écouter** pour découvrir l'histoire de la ville. Sans réservation, dans la limite des places disponibles.\n\n3. **Marché de la Halle de la Barasse**\n   📅 **Tous les jeudis** (jusqu'au 23 octobre)\n   📍 **Halle de la Barasse**\n   Un marché en circuit court avec des produits locaux. Ouvert de **17h à 19h** (jusqu'au 23 octobre) puis de **16h30 à 18h30** à partir du 30 octobre.\n\nSi vous aimez la musique, le concert de juin est parfait ! Pour une expérience culturelle originale, la visite sensorielle est idéale. Et si vous préférez les produits frais, le marché de la Halle de la Barasse est une bonne option. 😊",
+        "success": true,
+        "city_ok": true,
+        "keywords_ok": true
+    },
+    {
+        "id": 9,
+        "question": "Quels événements culturels dans la région PACA ?",
+        "expected_city": null,
+        "keywords_expected": [
+            "festival",
+            "culture",
+            "événement"
+        ],
+        "expected_result": [
+            "événement_PACA1",
+            "événement_PACA2"
+        ],
+        "rag_response": "Voici les événements culturels pertinents en région PACA pour vous :\n\n**🌿 *Le nouveau salon Préférence Provence***\n📅 **Du 20 au 22 juin 2025** (8h-20h)\n📍 **Hôtel du Département des Bouches-du-Rhône, Marseille**\n🎯 **Pourquoi y aller ?**\nUn salon dédié à l’agriculture, l’économie locale et les enjeux environnementaux de la Provence. Au programme : débats sur le changement climatique, relocalisation alimentaire et transition des modèles de production, le tout dans une ambiance conviviale. Un concert gratuit est également prévu en marge de l’événement !\n\n---\n*Si vous cherchez une expérience plus immersive dans le monde culturel, cet événement mêle patrimoine, innovation et engagement territorial.*\n\n---\n*PS : Si vous souhaitez participer à l’organisation d’événements culturels, la **Maison de l’Architecture et de la Ville PACA** recherche des volontaires pour la médiation et la logistique (voir détails ci-dessous).*\n\n---\n*Besoin d’autres suggestions ou d’informations complémentaires ? N’hésitez pas !*",
+        "success": true,
+        "city_ok": true,
+        "keywords_ok": true
+    },
+    {
+        "id": 10,
+        "question": "Quels événements culturels ce week-end à Marseille ?",
+        "expected_city": "Marseille",
+        "keywords_expected": [
+            "week-end"
+        ],
+        "expected_result": [
+            "événement_weekend1",
+            "événement_weekend2"
+        ],
+        "rag_response": "Voici les événements culturels à Marseille ce week-end (17 et 19 mai 2025) :\n\n🌟 **Visite sensorielle : balade des sens à travers l’histoire de Marseille**\n📅 **Samedi 17 mai à 17h**\n📍 **Musée d'histoire de Marseille**\nUne expérience immersive unique où vous explorerez l’histoire de Marseille à travers vos sens (toucher, odorat, goût, ouïe). Parfait pour une découverte originale et accessible à tous !\n\n🌱 **Les Lundi de la transition : Marseille résiliente, la ville face aux défis climatiques**\n📅 **Lundi 19 mai à 16h**\n📍 **Ordre des architectes PACA**\nUne conférence-débat sur les solutions d’adaptation de Marseille face au changement climatique, avec des retours d’élus et des initiatives locales. Inscription nécessaire.\n\nBonne visite ! 😊",
+        "success": true,
+        "city_ok": true,
+        "keywords_ok": true
+    },
+    {
+        "id": 11,
+        "question": "Je cherche une activité sympa à faire à Marseille",
+        "expected_city": "Marseille",
+        "keywords_expected": [
+            "activité",
+            "événement",
+            "ludique",
+            "récréatif",
+            "créatif"
+        ],
+        "expected_result": [
+            "activité1",
+            "activité2"
+        ],
+        "rag_response": "Voici deux idées d'événements sympas à faire à Marseille, selon tes centres d'intérêt :\n\n1. **Créations et fresque participative** (8 juillet 2025)\n   *Un atelier créatif pour les jeunes (et les moins jeunes !) autour de la préservation de l’environnement.*\n   - **Où ?** Centre social Tivoli, Marseille\n   - **En quoi ça consiste ?** Réalisation d’une fresque mêlant peinture et éléments recyclés (déchets) pour sensibiliser à la pollution plastique et célébrer la biodiversité marseillaise.\n   - **Pour qui ?** Parfait si tu aimes l’art, l’écologie ou les activités manuelles en groupe.\n\n2. **Exposition du concours \"Marseille ville récréative\"** (17 juin 2025)\n   *Une exposition inspirante sur l’apprentissage en plein air et l’imagination urbaine.*\n   - **Où ?** Ordre des architectes PACA, Marseille\n   - **En quoi ça consiste ?** Découverte de projets pour transformer Marseille en une ville où les enfants pourraient étudier dehors 4 jours par semaine, avec des idées créatives et durables.\n   - **Pour qui ?** Idéal si tu t’intéresses à l’urbanisme, à l’éducation ou aux solutions innovantes pour les villes.\n\n**Mon coup de cœur** : Si tu veux allier art et écologie, la fresque participative est un super choix ! Sinon, l’exposition est parfaite pour réfléchir à l’avenir de Marseille de manière ludique.\n\nTu cherches quelque chose de plus précis (art, éducation, famille…) ? 😊",
+        "success": true,
+        "city_ok": true,
+        "keywords_ok": true
+    },
+    {
+        "id": 12,
+        "question": "Que faire ce soir à Marseille ?",
+        "expected_city": "Marseille",
+        "keywords_expected": [
+            "soir"
+        ],
+        "expected_result": [
+            "événement_soir1",
+            "événement_soir2"
+        ],
+        "rag_response": "Ce soir à Marseille, voici les événements qui pourraient vous intéresser :\n\n🎭 **Visite sensorielle : balade des sens à travers l’histoire de Marseille**\n📅 **17 mai 2025 à 17h**\n📍 **Musée d'histoire de Marseille**\nUne expérience unique pour découvrir l’histoire de la ville à travers vos sens : épices, encens, tissus et sons vous plongeront dans la vie quotidienne des Marseillais. **Tout public** – sans réservation, dans la limite des places disponibles.\n\n🎵 **Fun Radio Live – Grand Concert Gratuit à Marseille**\n📅 **21 juin 2025 à 19h**\n📍 **Plage Borély**\nUn concert gratuit avec des artistes comme Magic System, Petit Biscuit ou The Avener, dans une ambiance électro et pop. Parfait pour une soirée estivale !\n\nSi vous cherchez une activité culturelle immersive, la visite sensorielle est idéale. Pour une ambiance musicale festive, le concert de juin est un must. 😊",
+        "success": true,
+        "city_ok": true,
+        "keywords_ok": true
+    },
+    {
+        "id": 13,
+        "question": "Y a-t-il des festivals de musique à Marseille ?",
+        "expected_city": "Marseille",
+        "keywords_expected": [
+            "festival",
+            "musique",
+            "concert"
+        ],
+        "expected_result": [
+            "festival1",
+            "festival2"
+        ],
+        "rag_response": "Oui, il y a plusieurs festivals et événements musicaux à Marseille ce **samedi 21 juin 2025** (Fête de la Musique) :\n\n### 🎵 **Fun Radio Live – Grand Concert Gratuit**\n📍 **Plage Borély** (à partir de 19h)\nUn festival électro-pop avec des artistes comme **Magic System, Petit Biscuit, The Avener** et bien d’autres. Ambiance garantie sur la plage !\n\n### 🎶 **Scène entre pop rock, chant scout et variété française**\n📍 **Place Caire** (à partir de 20h30)\nUn concert festif et intergénérationnel avec **13 Foulards dans le Mistral** (Scouts et Guides de France), mêlant chants scouts et compositions originales.\n\nCes deux événements sont **gratuits** et ouverts à tous. Si tu aimes les ambiances variées (électro, pop ou folk engagée), ces festivals sont parfaits pour toi ! 🎉\n\nTu veux des infos sur un style en particulier ?",
+        "success": true,
+        "city_ok": true,
+        "keywords_ok": true
+    },
+    {
+        "id": 14,
+        "question": "Quels événements à New York ?",
+        "expected_city": "New York",
+        "keywords_expected": [],
+        "expected_result": [],
+        "rag_response": "Je ne trouve aucun événement culturel à New York dans les informations disponibles. Tous les événements proposés se déroulent à Marseille.\n\nSi vous souhaitez des recommandations pour Marseille ou une autre ville, n'hésitez pas à me le préciser !",
+        "success": false,
+        "city_ok": true,
+        "keywords_ok": false
+    },
+    {
+        "id": 15,
+        "question": "Quels événements en 2010 à Marseille ?",
+        "expected_city": "Marseille",
+        "keywords_expected": [],
+        "expected_result": [],
+        "rag_response": "Je n'ai pas trouvé d'événements datés de **2010** dans les informations disponibles. Les événements proposés concernent principalement **2025** (comme la *Visite sensorielle* en mai ou l'*Exposition du concours d'idées* en juin).\n\nSi vous cherchez des événements à Marseille pour une autre année, n'hésitez pas à préciser votre demande ! 😊",
+        "success": false,
+        "city_ok": true,
+        "keywords_ok": false
+    },
+    {
+        "id": 16,
+        "question": "kdfjkdhxbvjdfbgvhjdfgjfdbv",
+        "expected_city": "Marseille",
+        "keywords_expected": [],
+        "expected_result": [],
+        "rag_response": "Je n'ai pas compris votre demande. Pouvez-vous préciser ce que vous recherchez (type d'événement, date, lieu, etc.) ? Je suis là pour vous aider à trouver des événements culturels pertinents ! 😊",
+        "success": false,
+        "city_ok": false,
+        "keywords_ok": false
+    },
+    {
+        "id": 17,
+        "question": "Quels événements culturels intéressants à Marseille avec musique et en extérieur ?",
+        "expected_city": "Marseille",
+        "keywords_expected": [
+            "musique",
+            "plein air",
+            "extérieur",
+            "concert"
+        ],
+        "expected_result": [
+            "concert_exterieur1",
+            "concert_exterieur2"
+        ],
+        "rag_response": "Voici l'événement culturel à Marseille qui correspond le mieux à vos critères (musique et en extérieur) :\n\n**🎵 Visite sensorielle : balade des sens à travers l’histoire de Marseille**\n📅 **Date** : 17 mai 2025 à 17h\n📍 **Lieu** : Musée d'histoire de Marseille (dans les collections et le site du Port antique)\n🎶 **Musique** : Concert en continu avec des élèves du Conservatoire Pierre Barbizet (piano, chant lyrique, flûtes, mandoline, guitares).\n\n*Pourquoi c'est parfait pour vous ?*\n- **En extérieur** : La visite se déroule dans les espaces du musée et du Port antique, en plein air.\n- **Ambiance musicale** : Des performances live tout au long de la soirée pour une immersion sensorielle unique.\n\n*À noter* : L'autre événement mentionné (\"Préférence Provence\") se déroule en intérieur (Hôtel du Département).\n\nBonne visite ! 🎼",
+        "success": true,
+        "city_ok": true,
+        "keywords_ok": true
+    },
+    {
+        "id": 18,
+        "question": "Recommande-moi des événements variés à Marseille",
+        "expected_city": "Marseille",
+        "keywords_expected": [
+            "festival",
+            "expo",
+            "concert",
+            "visite",
+            "balade",
+            "concert",
+            "cinema",
+            "conférence",
+            "webinaire",
+            "formation",
+            "excursion",
+            "vélo",
+            "cuisine",
+            "exposition",
+            "conservatoire"
+        ],
+        "expected_result": [
+            "festival_varie1",
+            "expo_varie1",
+            "concert_varie1",
+            "visite_varie1"
+        ],
+        "rag_response": "Voici une sélection d’événements variés à Marseille, adaptés à différents centres d’intérêt :\n\n🌿 **Pour une expérience immersive et sensorielle** :\n**\"Visite sensorielle : balade des sens à travers l’histoire de Marseille\"**\n📅 **17 mai 2025 à 17h** | 📍 Musée d’histoire de Marseille\nUne visite originale qui explore l’histoire de la ville à travers le toucher, l’odorat, le goût et l’ouïe. Parfait pour découvrir Marseille autrement !\n\n🏙️ **Pour les amateurs d’urbanisme et de créativité** :\n**\"Exposition du concours d’idée 'Marseille ville récréative'\"**\n📅 **Du 17 au 30 juin 2025** | 📍 Ordre des architectes PACA\nUne exposition qui présente des projets innovants pour transformer Marseille en une ville plus ludique et éducative. Vernissage le **18 juin** !\n\n🚴 **Pour les cyclistes et les familles** :\n**\"Fête du Vélo à Malpassé\"**\n📅 **30 avril 2025 de 14h à 17h** | 📍 Musée de la Moto (13e)\nUn événement festif autour du vélo, avec des surprises et des animations pour tous les âges.\n\nCes trois événements offrent un bon équilibre entre culture, innovation et loisirs. Si tu cherches quelque chose de précis (art, sport, histoire…), n’hésite pas à préciser ! 😊",
+        "success": true,
+        "city_ok": true,
+        "keywords_ok": true
+    },
+    {
+        "id": 19,
+        "question": "Quels événements proches de moi ?",
+        "expected_city": "Marseille",
+        "keywords_expected": [
+            "proche"
+        ],
+        "expected_result": [
+            "événement_proche1",
+            "événement_proche2"
+        ],
+        "rag_response": "Voici les événements à Marseille qui pourraient vous intéresser :\n\n1. **Le nouveau salon Préférence Provence** (20-22 juin 2025)\n   *Un salon dédié aux enjeux agricoles et alimentaires de demain, avec des réflexions sur le changement climatique et la transition des modèles de production.*\n   📍 **Hôtel du Département des Bouches-du-Rhône**\n\n2. **Rouvrir le monde : \"Vidéo Satisfaisante\" - Juliette Guérin** (11 août 2025)\n   *Un atelier artistique autour de la nourriture, du corps et des réseaux sociaux, dans le cadre d’une résidence créative.*\n   📍 **Jeanne Barret**\n\n3. **Les 4e Rencontres du vélo et des mobilités douces** (23 mai 2025)\n   *Un événement dédié aux alternatives de mobilité durable, avec des conférences et des activités autour du vélo.*\n   📍 **La Coque**\n\nSi vous cherchez un événement en particulier (agriculture, art, mobilité), dites-le-moi pour une recommandation plus ciblée ! 😊",
+        "success": false,
+        "city_ok": true,
+        "keywords_ok": false
+    }
+]

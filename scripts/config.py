@@ -41,7 +41,7 @@ EXPECTED_CITY = "Marseille"
 	
 # Paramètres de requête pour OpenAgenda
 PARAMS = {
-    "select": "uid, title_fr, description_fr, longdescription_fr, location_city, location_region, firstdate_begin, firstdate_end, location_tags",
+    "select": "uid, title_fr, description_fr, longdescription_fr, location_city, location_region, location_name, firstdate_begin, firstdate_end, location_tags",
     "where": f"longdescription_fr IS NOT NULL AND location_city = '{EXPECTED_CITY}' AND firstdate_begin >= '{one_year_ago_str}'",
     "order_by": "firstdate_begin"
     ,"limit": 100
@@ -50,10 +50,10 @@ PARAMS = {
 # -----------------------------
 # Chemins de fichiers pour sauvegarde des évènements
 # -----------------------------
-OUTPUT_PATH = Path(os.getenv("EVENTS_CSV_PATH", "../data/events_clean.csv"))
+OUTPUT_PATH = Path(os.getenv("EVENTS_CSV_PATH", "data/events_clean.csv"))
 
 # Dossier pour sauvegarde optionnelle Markdown
-MD_OUTPUT_DIR = Path(os.getenv("MD_OUTPUT_DIR", "../data/docs_md"))
+MD_OUTPUT_DIR = Path(os.getenv("MD_OUTPUT_DIR", "data/docs_md"))
 
 
 # STEP(2) --> 02_pipeline_rag_chunk_embeddings_indexation.py
@@ -61,9 +61,9 @@ MD_OUTPUT_DIR = Path(os.getenv("MD_OUTPUT_DIR", "../data/docs_md"))
 # -----------------------------
 # Chemins fichiers/dossiers embeddings
 # -----------------------------
-CSV_INPUT_PATH = Path(os.getenv("CSV_INPUT_PATH", "../data/events_clean.csv"))
-EMBEDDINGS_OUTPUT = Path(os.getenv("EMBEDDINGS_OUTPUT", "../vector_store/events_embeddings.pkl"))
-FAISS_INDEX_PATH = Path(os.getenv("EMBEDDINGS_OUTPUT", "../vector_store/faiss_index"))
+CSV_INPUT_PATH = Path(os.getenv("CSV_INPUT_PATH", "data/events_clean.csv"))
+EMBEDDINGS_OUTPUT = Path(os.getenv("EMBEDDINGS_OUTPUT", "vector_store/events_embeddings.pkl"))
+FAISS_INDEX_PATH = Path(os.getenv("EMBEDDINGS_OUTPUT", "vector_store/faiss_index"))
 
 # -----------------------------
 # Clés API et modèles Mistral
@@ -90,7 +90,7 @@ BATCH_SIZE = 20
 # -----------------------------
 # Chemins FAISS et métadonnées
 # -----------------------------
-FAISS_INDEX_DIR = Path("../vector_store/faiss_index")
+FAISS_INDEX_DIR = Path("vector_store/faiss_index")
 
 FAISS_INDEX_PATH = FAISS_INDEX_DIR / "index.faiss"
 METADATA_PATH = FAISS_INDEX_DIR / "metadata.pkl"
