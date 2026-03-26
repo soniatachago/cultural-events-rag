@@ -1,0 +1,469 @@
+2026-03-26 11:12:26,547 | INFO | rag_pipeline | Logger initialisé avec succès
+2026-03-26 11:28:24,845 | INFO | rag_pipeline | Logger initialisé avec succès
+2026-03-26 11:29:07,733 | INFO | rag_pipeline | Logger initialisé avec succès
+2026-03-26 11:29:07,756 | INFO | rag_pipeline | ✅ Dataset chargé : 19 questions
+2026-03-26 11:29:07,791 | INFO | rag_pipeline | ✅ Index FAISS chargé (305 vecteurs)
+2026-03-26 11:29:08,841 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 11:29:08,841 | INFO | rag_pipeline | 2 documents après déduplication
+2026-03-26 11:29:10,673 | INFO | rag_pipeline | Question ID 1 -> Success: True
+2026-03-26 11:29:11,495 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 11:29:11,495 | INFO | rag_pipeline | 3 documents après déduplication
+2026-03-26 11:29:14,770 | INFO | rag_pipeline | Question ID 2 -> Success: True
+2026-03-26 11:29:15,122 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 11:29:15,122 | INFO | rag_pipeline | 2 documents après déduplication
+2026-03-26 11:29:17,714 | INFO | rag_pipeline | Question ID 3 -> Success: True
+2026-03-26 11:29:18,067 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 11:29:18,079 | INFO | rag_pipeline | 2 documents après déduplication
+2026-03-26 11:29:20,344 | INFO | rag_pipeline | Question ID 4 -> Success: True
+2026-03-26 11:29:20,782 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 11:29:20,782 | INFO | rag_pipeline | 3 documents après déduplication
+2026-03-26 11:29:22,778 | INFO | rag_pipeline | Question ID 5 -> Success: True
+2026-03-26 11:29:23,149 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 11:29:23,149 | INFO | rag_pipeline | 2 documents après déduplication
+2026-03-26 11:29:25,363 | INFO | rag_pipeline | Question ID 6 -> Success: True
+2026-03-26 11:29:25,742 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 11:29:25,742 | INFO | rag_pipeline | 3 documents après déduplication
+2026-03-26 11:29:28,045 | INFO | rag_pipeline | Question ID 7 -> Success: True
+2026-03-26 11:29:28,351 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 11:29:28,353 | INFO | rag_pipeline | 3 documents après déduplication
+2026-03-26 11:29:30,353 | INFO | rag_pipeline | Question ID 8 -> Success: True
+2026-03-26 11:29:30,664 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 11:29:30,664 | INFO | rag_pipeline | 2 documents après déduplication
+2026-03-26 11:29:33,126 | INFO | rag_pipeline | Question ID 9 -> Success: True
+2026-03-26 11:29:33,473 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 11:29:33,483 | INFO | rag_pipeline | 2 documents après déduplication
+2026-03-26 11:29:35,965 | INFO | rag_pipeline | Question ID 10 -> Success: True
+2026-03-26 11:29:36,308 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 11:29:36,308 | INFO | rag_pipeline | 2 documents après déduplication
+2026-03-26 11:29:38,217 | INFO | rag_pipeline | Question ID 11 -> Success: False
+2026-03-26 11:29:38,550 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 11:29:38,551 | INFO | rag_pipeline | 2 documents après déduplication
+2026-03-26 11:29:40,090 | INFO | rag_pipeline | Question ID 12 -> Success: True
+2026-03-26 11:29:40,485 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 11:29:40,485 | INFO | rag_pipeline | 3 documents après déduplication
+2026-03-26 11:29:43,026 | INFO | rag_pipeline | Question ID 13 -> Success: True
+2026-03-26 11:29:43,374 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 11:29:43,374 | INFO | rag_pipeline | 2 documents après déduplication
+2026-03-26 11:29:44,356 | INFO | rag_pipeline | Question ID 14 -> Success: False
+2026-03-26 11:29:44,703 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 11:29:44,705 | INFO | rag_pipeline | 3 documents après déduplication
+2026-03-26 11:29:47,482 | INFO | rag_pipeline | Question ID 15 -> Success: False
+2026-03-26 11:29:47,862 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 11:29:47,871 | INFO | rag_pipeline | 3 documents après déduplication
+2026-03-26 11:29:48,610 | INFO | rag_pipeline | Question ID 16 -> Success: False
+2026-03-26 11:29:48,925 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 11:29:48,925 | INFO | rag_pipeline | 2 documents après déduplication
+2026-03-26 11:29:50,342 | INFO | rag_pipeline | Question ID 17 -> Success: True
+2026-03-26 11:29:50,655 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 11:29:50,655 | INFO | rag_pipeline | 3 documents après déduplication
+2026-03-26 11:29:53,435 | INFO | rag_pipeline | Question ID 18 -> Success: True
+2026-03-26 11:29:53,787 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 11:29:53,787 | INFO | rag_pipeline | 3 documents après déduplication
+2026-03-26 11:29:56,146 | INFO | rag_pipeline | Question ID 19 -> Success: False
+2026-03-26 11:29:56,162 | INFO | rag_pipeline | ✅ Évaluation terminée. Résultats sauvegardés dans evaluation/rag_eval_results.json
+2026-03-26 11:29:56,162 | INFO | rag_pipeline | 📊 Total questions : 19
+2026-03-26 11:29:56,162 | INFO | rag_pipeline | 📊 Réponses correctes : 14
+2026-03-26 11:29:56,162 | INFO | rag_pipeline | 📊 Accuracy globale : 73.68%
+2026-03-26 11:31:32,037 | INFO | rag_pipeline | Logger initialisé avec succès
+2026-03-26 11:31:32,068 | INFO | rag_pipeline | ✅ Dataset chargé : 19 questions
+2026-03-26 11:31:32,068 | INFO | rag_pipeline | ✅ Index FAISS chargé (305 vecteurs)
+2026-03-26 11:31:32,675 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 11:31:32,675 | INFO | rag_pipeline | 2 documents après déduplication
+2026-03-26 11:31:35,122 | INFO | rag_pipeline | Question ID 1 -> Success: True
+2026-03-26 11:31:35,433 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 11:31:35,433 | INFO | rag_pipeline | 3 documents après déduplication
+2026-03-26 11:31:37,248 | INFO | rag_pipeline | Question ID 2 -> Success: True
+2026-03-26 11:31:39,176 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 11:31:39,176 | INFO | rag_pipeline | 2 documents après déduplication
+2026-03-26 11:31:44,105 | INFO | rag_pipeline | Question ID 3 -> Success: True
+2026-03-26 11:31:44,472 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 11:31:44,472 | INFO | rag_pipeline | 2 documents après déduplication
+2026-03-26 11:31:45,953 | INFO | rag_pipeline | Question ID 4 -> Success: True
+2026-03-26 11:31:46,365 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 11:31:46,365 | INFO | rag_pipeline | 3 documents après déduplication
+2026-03-26 11:31:48,481 | INFO | rag_pipeline | Question ID 5 -> Success: True
+2026-03-26 11:31:48,796 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 11:31:48,796 | INFO | rag_pipeline | 2 documents après déduplication
+2026-03-26 11:31:50,809 | INFO | rag_pipeline | Question ID 6 -> Success: True
+2026-03-26 11:31:51,129 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 11:31:51,129 | INFO | rag_pipeline | 3 documents après déduplication
+2026-03-26 11:31:54,238 | INFO | rag_pipeline | Question ID 7 -> Success: True
+2026-03-26 11:31:54,633 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 11:31:54,633 | INFO | rag_pipeline | 3 documents après déduplication
+2026-03-26 11:31:57,001 | INFO | rag_pipeline | Question ID 8 -> Success: True
+2026-03-26 11:31:57,324 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 11:31:57,329 | INFO | rag_pipeline | 2 documents après déduplication
+2026-03-26 11:31:59,297 | INFO | rag_pipeline | Question ID 9 -> Success: True
+2026-03-26 11:31:59,614 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 11:31:59,614 | INFO | rag_pipeline | 2 documents après déduplication
+2026-03-26 11:32:01,701 | INFO | rag_pipeline | Question ID 10 -> Success: True
+2026-03-26 11:32:02,272 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 11:32:02,287 | INFO | rag_pipeline | 2 documents après déduplication
+2026-03-26 11:32:04,089 | INFO | rag_pipeline | Question ID 11 -> Success: False
+2026-03-26 11:32:04,421 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 11:32:04,421 | INFO | rag_pipeline | 2 documents après déduplication
+2026-03-26 11:32:06,106 | INFO | rag_pipeline | Question ID 12 -> Success: True
+2026-03-26 11:32:06,437 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 11:32:06,437 | INFO | rag_pipeline | 3 documents après déduplication
+2026-03-26 11:32:08,447 | INFO | rag_pipeline | Question ID 13 -> Success: True
+2026-03-26 11:32:08,772 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 11:32:08,780 | INFO | rag_pipeline | 2 documents après déduplication
+2026-03-26 11:32:09,568 | INFO | rag_pipeline | Question ID 14 -> Success: False
+2026-03-26 11:32:09,898 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 11:32:09,898 | INFO | rag_pipeline | 3 documents après déduplication
+2026-03-26 11:32:12,389 | INFO | rag_pipeline | Question ID 15 -> Success: False
+2026-03-26 11:32:12,726 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 11:32:12,726 | INFO | rag_pipeline | 3 documents après déduplication
+2026-03-26 11:32:13,596 | INFO | rag_pipeline | Question ID 16 -> Success: False
+2026-03-26 11:32:13,899 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 11:32:13,899 | INFO | rag_pipeline | 2 documents après déduplication
+2026-03-26 11:32:16,709 | INFO | rag_pipeline | Question ID 17 -> Success: True
+2026-03-26 11:32:17,039 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 11:32:17,039 | INFO | rag_pipeline | 3 documents après déduplication
+2026-03-26 11:32:19,127 | INFO | rag_pipeline | Question ID 18 -> Success: True
+2026-03-26 11:32:19,434 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 11:32:19,434 | INFO | rag_pipeline | 3 documents après déduplication
+2026-03-26 11:32:21,682 | INFO | rag_pipeline | Question ID 19 -> Success: False
+2026-03-26 11:32:21,690 | INFO | rag_pipeline | ✅ Évaluation terminée. Résultats sauvegardés dans evaluation/rag_eval_results.json
+2026-03-26 11:32:21,696 | INFO | rag_pipeline | 📊 Total questions : 19
+2026-03-26 11:32:21,703 | INFO | rag_pipeline | 📊 Réponses correctes : 14
+2026-03-26 11:32:21,707 | INFO | rag_pipeline | 📊 Accuracy globale : 73.68%
+2026-03-26 11:32:49,106 | INFO | rag_pipeline | Logger initialisé avec succès
+2026-03-26 11:34:31,572 | INFO | rag_pipeline | Logger initialisé avec succès
+2026-03-26 11:34:31,603 | INFO | rag_pipeline | ✅ Dataset chargé : 19 questions
+2026-03-26 11:34:31,603 | INFO | rag_pipeline | ✅ Index FAISS chargé (305 vecteurs)
+2026-03-26 11:34:32,403 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 11:34:32,405 | INFO | rag_pipeline | 2 documents après déduplication
+2026-03-26 11:34:34,973 | INFO | rag_pipeline | Question ID 1 -> Success: True
+2026-03-26 11:34:35,530 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 11:34:35,530 | INFO | rag_pipeline | 3 documents après déduplication
+2026-03-26 11:34:38,247 | INFO | rag_pipeline | Question ID 2 -> Success: True
+2026-03-26 11:34:38,595 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 11:34:38,595 | INFO | rag_pipeline | 2 documents après déduplication
+2026-03-26 11:34:41,383 | INFO | rag_pipeline | Question ID 3 -> Success: True
+2026-03-26 11:34:41,706 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 11:34:41,708 | INFO | rag_pipeline | 2 documents après déduplication
+2026-03-26 11:34:43,664 | INFO | rag_pipeline | Question ID 4 -> Success: True
+2026-03-26 11:34:44,002 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 11:34:44,002 | INFO | rag_pipeline | 3 documents après déduplication
+2026-03-26 11:34:46,002 | INFO | rag_pipeline | Question ID 5 -> Success: True
+2026-03-26 11:34:46,563 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 11:34:46,564 | INFO | rag_pipeline | 2 documents après déduplication
+2026-03-26 11:34:48,776 | INFO | rag_pipeline | Question ID 6 -> Success: True
+2026-03-26 11:34:49,089 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 11:34:49,089 | INFO | rag_pipeline | 3 documents après déduplication
+2026-03-26 11:34:51,920 | INFO | rag_pipeline | Question ID 7 -> Success: True
+2026-03-26 11:34:52,284 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 11:34:52,284 | INFO | rag_pipeline | 3 documents après déduplication
+2026-03-26 11:34:54,245 | INFO | rag_pipeline | Question ID 8 -> Success: True
+2026-03-26 11:34:54,567 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 11:34:54,567 | INFO | rag_pipeline | 2 documents après déduplication
+2026-03-26 11:34:55,950 | INFO | rag_pipeline | Question ID 9 -> Success: True
+2026-03-26 11:34:56,261 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 11:34:56,261 | INFO | rag_pipeline | 2 documents après déduplication
+2026-03-26 11:34:57,719 | INFO | rag_pipeline | Question ID 10 -> Success: True
+2026-03-26 11:34:58,053 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 11:34:58,053 | INFO | rag_pipeline | 2 documents après déduplication
+2026-03-26 11:34:59,779 | INFO | rag_pipeline | Question ID 11 -> Success: True
+2026-03-26 11:35:00,744 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 11:35:00,744 | INFO | rag_pipeline | 2 documents après déduplication
+2026-03-26 11:35:02,443 | INFO | rag_pipeline | Question ID 12 -> Success: True
+2026-03-26 11:35:02,792 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 11:35:02,792 | INFO | rag_pipeline | 3 documents après déduplication
+2026-03-26 11:35:04,747 | INFO | rag_pipeline | Question ID 13 -> Success: True
+2026-03-26 11:35:05,112 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 11:35:05,112 | INFO | rag_pipeline | 2 documents après déduplication
+2026-03-26 11:35:06,185 | INFO | rag_pipeline | Question ID 14 -> Success: False
+2026-03-26 11:35:06,549 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 11:35:06,549 | INFO | rag_pipeline | 3 documents après déduplication
+2026-03-26 11:35:08,204 | INFO | rag_pipeline | Question ID 15 -> Success: False
+2026-03-26 11:35:08,505 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 11:35:08,505 | INFO | rag_pipeline | 3 documents après déduplication
+2026-03-26 11:35:09,309 | INFO | rag_pipeline | Question ID 16 -> Success: False
+2026-03-26 11:35:09,664 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 11:35:09,667 | INFO | rag_pipeline | 2 documents après déduplication
+2026-03-26 11:35:11,485 | INFO | rag_pipeline | Question ID 17 -> Success: True
+2026-03-26 11:35:11,850 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 11:35:11,851 | INFO | rag_pipeline | 3 documents après déduplication
+2026-03-26 11:35:13,871 | INFO | rag_pipeline | Question ID 18 -> Success: True
+2026-03-26 11:35:14,214 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 11:35:14,214 | INFO | rag_pipeline | 3 documents après déduplication
+2026-03-26 11:35:18,051 | INFO | rag_pipeline | Question ID 19 -> Success: False
+2026-03-26 11:35:18,051 | INFO | rag_pipeline | ✅ Évaluation terminée. Résultats sauvegardés dans evaluation/rag_eval_results.json
+2026-03-26 11:35:18,055 | INFO | rag_pipeline | 📊 Total questions : 19
+2026-03-26 11:35:18,056 | INFO | rag_pipeline | 📊 Réponses correctes : 15
+2026-03-26 11:35:18,058 | INFO | rag_pipeline | 📊 Accuracy globale : 78.95%
+2026-03-26 11:36:33,058 | INFO | rag_pipeline | Logger initialisé avec succès
+2026-03-26 11:37:34,113 | INFO | rag_pipeline | 
+ Collecte des événements depuis OpenAgenda...
+2026-03-26 11:37:34,113 | INFO | rag_pipeline | ✅ 2 événements collectés
+2026-03-26 11:37:34,141 | INFO | rag_pipeline | ✅ DataFrame créée (2 événements)
+2026-03-26 11:37:34,172 | INFO | rag_pipeline | 💾 Dataset sauvegardé dans C:\Users\DTYN0763\AppData\Local\Temp\pytest-of-DTYN0763\pytest-11\test_save_dataset0\test_events.csv
+2026-03-26 11:37:34,216 | INFO | rag_pipeline | ✅ DataFrame créée (2 événements)
+2026-03-26 11:37:34,249 | INFO | rag_pipeline | 3 documents après déduplication
+2026-03-26 11:37:34,289 | INFO | rag_pipeline | Top 1 documents récupérés
+2026-03-26 11:37:34,307 | INFO | rag_pipeline | 1 documents après déduplication
+2026-03-26 11:37:34,378 | INFO | rag_pipeline | ✅ 1 événements chargés
+2026-03-26 11:37:34,394 | INFO | rag_pipeline | ✅ 2 chunks générés
+2026-03-26 11:37:34,406 | INFO | rag_pipeline | ✅ Batch 1 OK (1)
+2026-03-26 11:37:34,406 | INFO | rag_pipeline | 🎯 1 embeddings générés
+2026-03-26 11:37:34,415 | INFO | rag_pipeline | ✅ FAISS index créé (2 vecteurs)
+2026-03-26 11:37:34,415 | INFO | rag_pipeline | 💾 Index FAISS sauvegardé
+2026-03-26 12:00:02,619 | INFO | rag_pipeline | Logger initialisé avec succès
+2026-03-26 12:02:32,090 | INFO | rag_pipeline | 
+ Collecte des événements depuis OpenAgenda...
+2026-03-26 12:02:32,092 | INFO | rag_pipeline | ✅ 2 événements collectés
+2026-03-26 12:02:32,109 | INFO | rag_pipeline | ✅ DataFrame créée (2 événements)
+2026-03-26 12:02:32,135 | INFO | rag_pipeline | 💾 Dataset sauvegardé dans C:\Users\DTYN0763\AppData\Local\Temp\pytest-of-DTYN0763\pytest-12\test_save_dataset0\test_events.csv
+2026-03-26 12:02:32,169 | INFO | rag_pipeline | 3 documents après déduplication
+2026-03-26 12:02:32,208 | INFO | rag_pipeline | ✅ DataFrame créée (2 événements)
+2026-03-26 12:02:32,220 | INFO | rag_pipeline | ✅ DataFrame créée (2 événements)
+2026-03-26 12:02:32,234 | INFO | rag_pipeline | Top 1 documents récupérés
+2026-03-26 12:02:32,238 | INFO | rag_pipeline | 1 documents après déduplication
+2026-03-26 12:02:32,273 | INFO | rag_pipeline | ✅ 1 événements chargés
+2026-03-26 12:02:32,278 | INFO | rag_pipeline | ✅ 2 chunks générés
+2026-03-26 12:02:32,284 | INFO | rag_pipeline | ✅ Batch 1 OK (1)
+2026-03-26 12:02:32,285 | INFO | rag_pipeline | 🎯 1 embeddings générés
+2026-03-26 12:02:32,293 | INFO | rag_pipeline | ✅ FAISS index créé (2 vecteurs)
+2026-03-26 12:02:32,298 | INFO | rag_pipeline | 💾 Index FAISS sauvegardé
+2026-03-26 12:08:35,638 | INFO | rag_pipeline | Logger initialisé avec succès
+2026-03-26 12:08:50,633 | INFO | rag_pipeline | 
+ Collecte des événements depuis OpenAgenda...
+2026-03-26 12:08:50,633 | INFO | rag_pipeline | ✅ 2 événements collectés
+2026-03-26 12:08:50,641 | INFO | rag_pipeline | ✅ DataFrame créée (2 événements)
+2026-03-26 12:08:50,671 | INFO | rag_pipeline | 💾 Dataset sauvegardé dans C:\Users\DTYN0763\AppData\Local\Temp\pytest-of-DTYN0763\pytest-13\test_save_dataset0\test_events.csv
+2026-03-26 12:08:50,681 | INFO | rag_pipeline | 3 documents après déduplication
+2026-03-26 12:08:50,696 | INFO | rag_pipeline | ✅ DataFrame créée (2 événements)
+2026-03-26 12:08:50,707 | INFO | rag_pipeline | ✅ DataFrame créée (2 événements)
+2026-03-26 12:08:50,728 | INFO | rag_pipeline | Top 1 documents récupérés
+2026-03-26 12:08:50,738 | INFO | rag_pipeline | 1 documents après déduplication
+2026-03-26 12:08:50,764 | INFO | rag_pipeline | ✅ 1 événements chargés
+2026-03-26 12:08:50,770 | INFO | rag_pipeline | ✅ 2 chunks générés
+2026-03-26 12:08:50,779 | INFO | rag_pipeline | ✅ Batch 1 OK (1)
+2026-03-26 12:08:50,781 | INFO | rag_pipeline | 🎯 1 embeddings générés
+2026-03-26 12:08:50,787 | INFO | rag_pipeline | ✅ FAISS index créé (2 vecteurs)
+2026-03-26 12:08:50,792 | INFO | rag_pipeline | 💾 Index FAISS sauvegardé
+2026-03-26 12:10:13,813 | INFO | rag_pipeline | Logger initialisé avec succès
+2026-03-26 12:10:26,762 | INFO | rag_pipeline | 
+ Collecte des événements depuis OpenAgenda...
+2026-03-26 12:10:26,762 | INFO | rag_pipeline | ✅ 2 événements collectés
+2026-03-26 12:10:26,781 | INFO | rag_pipeline | ✅ DataFrame créée (2 événements)
+2026-03-26 12:10:26,808 | INFO | rag_pipeline | 💾 Dataset sauvegardé dans C:\Users\DTYN0763\AppData\Local\Temp\pytest-of-DTYN0763\pytest-14\test_save_dataset0\test_events.csv
+2026-03-26 12:10:26,817 | INFO | rag_pipeline | 3 documents après déduplication
+2026-03-26 12:10:26,824 | INFO | rag_pipeline | ✅ DataFrame créée (2 événements)
+2026-03-26 12:10:26,872 | INFO | rag_pipeline | ✅ DataFrame créée (2 événements)
+2026-03-26 12:10:26,882 | INFO | rag_pipeline | ✅ DataFrame créée (2 événements)
+2026-03-26 12:10:26,891 | INFO | rag_pipeline | Top 1 documents récupérés
+2026-03-26 12:10:26,896 | INFO | rag_pipeline | 1 documents après déduplication
+2026-03-26 12:10:26,904 | INFO | rag_pipeline | ✅ 1 événements chargés
+2026-03-26 12:10:26,904 | INFO | rag_pipeline | ✅ 2 chunks générés
+2026-03-26 12:10:26,904 | INFO | rag_pipeline | ✅ Batch 1 OK (1)
+2026-03-26 12:10:26,904 | INFO | rag_pipeline | 🎯 1 embeddings générés
+2026-03-26 12:10:26,904 | INFO | rag_pipeline | ✅ FAISS index créé (2 vecteurs)
+2026-03-26 12:10:26,919 | INFO | rag_pipeline | 💾 Index FAISS sauvegardé
+2026-03-26 12:14:25,598 | INFO | rag_pipeline | Logger initialisé avec succès
+2026-03-26 12:14:39,366 | INFO | rag_pipeline | 
+ Collecte des événements depuis OpenAgenda...
+2026-03-26 12:14:39,366 | INFO | rag_pipeline | ✅ 2 événements collectés
+2026-03-26 12:14:39,375 | INFO | rag_pipeline | ✅ DataFrame créée (2 événements)
+2026-03-26 12:14:39,392 | INFO | rag_pipeline | 💾 Dataset sauvegardé dans C:\Users\DTYN0763\AppData\Local\Temp\pytest-of-DTYN0763\pytest-15\test_save_dataset0\test_events.csv
+2026-03-26 12:14:39,414 | INFO | rag_pipeline | ✅ DataFrame créée (2 événements)
+2026-03-26 12:14:39,429 | INFO | rag_pipeline | ✅ DataFrame créée (2 événements)
+2026-03-26 12:14:39,434 | INFO | rag_pipeline | ✅ DataFrame créée (2 événements)
+2026-03-26 12:14:39,440 | INFO | rag_pipeline | 3 documents après déduplication
+2026-03-26 12:14:39,455 | INFO | rag_pipeline | Top 1 documents récupérés
+2026-03-26 12:14:39,455 | INFO | rag_pipeline | 1 documents après déduplication
+2026-03-26 12:14:39,471 | INFO | rag_pipeline | ✅ 1 événements chargés
+2026-03-26 12:14:39,474 | INFO | rag_pipeline | ✅ 2 chunks générés
+2026-03-26 12:14:39,479 | INFO | rag_pipeline | ✅ Batch 1 OK (1)
+2026-03-26 12:14:39,479 | INFO | rag_pipeline | 🎯 1 embeddings générés
+2026-03-26 12:14:39,479 | INFO | rag_pipeline | ✅ FAISS index créé (2 vecteurs)
+2026-03-26 12:14:39,479 | INFO | rag_pipeline | 💾 Index FAISS sauvegardé
+2026-03-26 15:34:52,255 | INFO | rag_pipeline | Logger initialisé avec succès
+2026-03-26 15:34:52,452 | INFO | rag_pipeline | ✅ Dataset chargé : 19 questions
+2026-03-26 15:34:52,542 | INFO | rag_pipeline | ✅ Index FAISS chargé (305 vecteurs)
+2026-03-26 15:34:53,612 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 15:34:53,612 | INFO | rag_pipeline | 2 documents après déduplication
+2026-03-26 15:34:55,577 | INFO | rag_pipeline | Question ID 1 -> Success: True
+2026-03-26 15:34:56,076 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 15:34:56,076 | INFO | rag_pipeline | 3 documents après déduplication
+2026-03-26 15:34:58,559 | INFO | rag_pipeline | Question ID 2 -> Success: True
+2026-03-26 15:34:58,933 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 15:34:58,933 | INFO | rag_pipeline | 2 documents après déduplication
+2026-03-26 15:35:01,323 | INFO | rag_pipeline | Question ID 3 -> Success: True
+2026-03-26 15:35:01,659 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 15:35:01,659 | INFO | rag_pipeline | 2 documents après déduplication
+2026-03-26 15:35:03,009 | INFO | rag_pipeline | Question ID 4 -> Success: True
+2026-03-26 15:35:03,346 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 15:35:03,349 | INFO | rag_pipeline | 3 documents après déduplication
+2026-03-26 15:35:06,046 | INFO | rag_pipeline | Question ID 5 -> Success: True
+2026-03-26 15:35:06,518 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 15:35:06,518 | INFO | rag_pipeline | 2 documents après déduplication
+2026-03-26 15:35:08,593 | INFO | rag_pipeline | Question ID 6 -> Success: True
+2026-03-26 15:35:08,915 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 15:35:08,915 | INFO | rag_pipeline | 3 documents après déduplication
+2026-03-26 15:35:11,087 | INFO | rag_pipeline | Question ID 7 -> Success: False
+2026-03-26 15:35:11,440 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 15:35:11,440 | INFO | rag_pipeline | 3 documents après déduplication
+2026-03-26 15:35:14,479 | INFO | rag_pipeline | Question ID 8 -> Success: True
+2026-03-26 15:35:14,928 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 15:35:14,928 | INFO | rag_pipeline | 2 documents après déduplication
+2026-03-26 15:35:16,981 | INFO | rag_pipeline | Question ID 9 -> Success: False
+2026-03-26 15:35:17,388 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 15:35:17,388 | INFO | rag_pipeline | 2 documents après déduplication
+2026-03-26 15:35:20,577 | INFO | rag_pipeline | Question ID 10 -> Success: True
+2026-03-26 15:35:20,910 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 15:35:20,910 | INFO | rag_pipeline | 2 documents après déduplication
+2026-03-26 15:35:22,869 | INFO | rag_pipeline | Question ID 11 -> Success: True
+2026-03-26 15:35:23,267 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 15:35:23,267 | INFO | rag_pipeline | 2 documents après déduplication
+2026-03-26 15:35:24,922 | INFO | rag_pipeline | Question ID 12 -> Success: True
+2026-03-26 15:35:25,311 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 15:35:25,311 | INFO | rag_pipeline | 3 documents après déduplication
+2026-03-26 15:35:27,321 | INFO | rag_pipeline | Question ID 13 -> Success: True
+2026-03-26 15:35:28,521 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 15:35:28,521 | INFO | rag_pipeline | 2 documents après déduplication
+2026-03-26 15:35:29,907 | INFO | rag_pipeline | Question ID 14 -> Success: False
+2026-03-26 15:35:30,284 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 15:35:30,286 | INFO | rag_pipeline | 3 documents après déduplication
+2026-03-26 15:35:32,191 | INFO | rag_pipeline | Question ID 15 -> Success: False
+2026-03-26 15:35:32,530 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 15:35:32,530 | INFO | rag_pipeline | 3 documents après déduplication
+2026-03-26 15:35:34,377 | INFO | rag_pipeline | Question ID 16 -> Success: False
+2026-03-26 15:35:34,682 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 15:35:34,687 | INFO | rag_pipeline | 2 documents après déduplication
+2026-03-26 15:35:37,607 | INFO | rag_pipeline | Question ID 17 -> Success: True
+2026-03-26 15:35:38,038 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 15:35:38,038 | INFO | rag_pipeline | 3 documents après déduplication
+2026-03-26 15:35:42,374 | INFO | rag_pipeline | Question ID 18 -> Success: True
+2026-03-26 15:35:42,754 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 15:35:42,760 | INFO | rag_pipeline | 3 documents après déduplication
+2026-03-26 15:35:44,940 | INFO | rag_pipeline | Question ID 19 -> Success: False
+2026-03-26 15:35:44,963 | INFO | rag_pipeline | ✅ Évaluation terminée. Résultats sauvegardés dans evaluation/rag_eval_results.json
+2026-03-26 15:35:44,966 | INFO | rag_pipeline | 📊 Total questions : 19
+2026-03-26 15:35:44,966 | INFO | rag_pipeline | 📊 Réponses correctes : 13
+2026-03-26 15:35:44,966 | INFO | rag_pipeline | 📊 Accuracy globale : 68.42%
+2026-03-26 23:06:08,964 | INFO | rag_pipeline | Logger initialisé avec succès
+2026-03-26 23:08:34,129 | INFO | rag_pipeline | Logger initialisé avec succès
+2026-03-26 23:09:07,134 | INFO | rag_pipeline | 
+ Collecte des événements depuis OpenAgenda...
+2026-03-26 23:09:07,134 | INFO | rag_pipeline | ✅ 2 événements collectés
+2026-03-26 23:09:07,166 | INFO | rag_pipeline | ✅ DataFrame créée (2 événements)
+2026-03-26 23:09:07,198 | INFO | rag_pipeline | 💾 Dataset sauvegardé dans C:\Users\DTYN0763\AppData\Local\Temp\pytest-of-DTYN0763\pytest-16\test_save_dataset0\test_events.csv
+2026-03-26 23:09:07,229 | INFO | rag_pipeline | ✅ DataFrame créée (2 événements)
+2026-03-26 23:09:07,261 | INFO | rag_pipeline | ✅ DataFrame créée (2 événements)
+2026-03-26 23:09:07,277 | INFO | rag_pipeline | ✅ DataFrame créée (2 événements)
+2026-03-26 23:09:07,277 | INFO | rag_pipeline | 3 documents après déduplication
+2026-03-26 23:09:07,293 | INFO | rag_pipeline | Top 1 documents récupérés
+2026-03-26 23:09:07,308 | INFO | rag_pipeline | 1 documents après déduplication
+2026-03-26 23:09:07,356 | INFO | rag_pipeline | ✅ 1 événements chargés
+2026-03-26 23:09:07,356 | INFO | rag_pipeline | ✅ 2 chunks générés
+2026-03-26 23:09:07,372 | INFO | rag_pipeline | ✅ Batch 1 OK (1)
+2026-03-26 23:09:07,372 | INFO | rag_pipeline | 🎯 1 embeddings générés
+2026-03-26 23:09:07,372 | INFO | rag_pipeline | ✅ FAISS index créé (2 vecteurs)
+2026-03-26 23:09:07,388 | INFO | rag_pipeline | 💾 Index FAISS sauvegardé
+2026-03-26 23:09:51,659 | INFO | rag_pipeline | Logger initialisé avec succès
+2026-03-26 23:09:51,659 | INFO | rag_pipeline | 🚀 Démarrage pipeline collecte d'événements
+2026-03-26 23:09:51,662 | INFO | rag_pipeline | 
+ Collecte des événements depuis OpenAgenda...
+2026-03-26 23:09:53,318 | INFO | rag_pipeline | ✅ 100 événements collectés
+2026-03-26 23:09:53,323 | INFO | rag_pipeline | ✅ DataFrame créée (100 événements)
+2026-03-26 23:09:53,332 | INFO | rag_pipeline | 💾 Dataset sauvegardé dans data\events_clean.csv
+2026-03-26 23:09:53,332 | INFO | rag_pipeline | 📝 Génération des fichiers Markdown...
+2026-03-26 23:09:53,392 | INFO | rag_pipeline | ✅ 100 fichiers Markdown générés dans data\docs_md
+2026-03-26 23:09:53,392 | INFO | rag_pipeline | 
+🎯 Pipeline terminé avec succès
+2026-03-26 23:10:13,501 | INFO | rag_pipeline | Logger initialisé avec succès
+2026-03-26 23:10:13,517 | INFO | rag_pipeline | 🚀 Démarrage pipeline RAG indexing
+2026-03-26 23:10:13,580 | INFO | rag_pipeline | ✅ 100 événements chargés
+2026-03-26 23:10:13,596 | INFO | rag_pipeline | ✅ 298 chunks générés
+2026-03-26 23:10:15,013 | INFO | rag_pipeline | ✅ Batch 1 OK (20)
+2026-03-26 23:10:15,665 | INFO | rag_pipeline | ✅ Batch 2 OK (20)
+2026-03-26 23:10:16,302 | INFO | rag_pipeline | ✅ Batch 3 OK (20)
+2026-03-26 23:10:18,354 | INFO | rag_pipeline | ✅ Batch 4 OK (20)
+2026-03-26 23:10:19,023 | INFO | rag_pipeline | ✅ Batch 5 OK (20)
+2026-03-26 23:10:19,612 | INFO | rag_pipeline | ✅ Batch 6 OK (20)
+2026-03-26 23:10:20,266 | INFO | rag_pipeline | ✅ Batch 7 OK (20)
+2026-03-26 23:10:20,872 | INFO | rag_pipeline | ✅ Batch 8 OK (20)
+2026-03-26 23:10:21,733 | INFO | rag_pipeline | ✅ Batch 9 OK (20)
+2026-03-26 23:10:22,353 | INFO | rag_pipeline | ✅ Batch 10 OK (20)
+2026-03-26 23:10:22,972 | INFO | rag_pipeline | ✅ Batch 11 OK (20)
+2026-03-26 23:10:23,576 | INFO | rag_pipeline | ✅ Batch 12 OK (20)
+2026-03-26 23:10:24,195 | INFO | rag_pipeline | ✅ Batch 13 OK (20)
+2026-03-26 23:10:24,829 | INFO | rag_pipeline | ✅ Batch 14 OK (20)
+2026-03-26 23:10:25,462 | INFO | rag_pipeline | ✅ Batch 15 OK (18)
+2026-03-26 23:10:25,462 | INFO | rag_pipeline | 🎯 298 embeddings générés
+2026-03-26 23:10:25,479 | INFO | rag_pipeline | 💾 Embeddings sauvegardés : vector_store\events_embeddings.pkl
+2026-03-26 23:10:25,479 | INFO | rag_pipeline | 📂 Construction index FAISS...
+2026-03-26 23:10:25,479 | INFO | rag_pipeline | ✅ FAISS index créé (298 vecteurs)
+2026-03-26 23:10:25,493 | INFO | rag_pipeline | 💾 Index FAISS sauvegardé
+2026-03-26 23:10:25,493 | INFO | rag_pipeline | 
+🎯 Pipeline terminé avec succès
+2026-03-26 23:10:48,712 | INFO | rag_pipeline | Logger initialisé avec succès
+2026-03-26 23:10:48,870 | INFO | rag_pipeline | ✅ Index FAISS chargé (298 vecteurs)
+2026-03-26 23:10:58,901 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 23:10:58,901 | INFO | rag_pipeline | 3 documents après déduplication
+2026-03-26 23:12:40,739 | INFO | rag_pipeline | Logger initialisé avec succès
+2026-03-26 23:12:40,806 | INFO | rag_pipeline | ✅ Dataset chargé : 19 questions
+2026-03-26 23:12:40,806 | INFO | rag_pipeline | ✅ Index FAISS chargé (298 vecteurs)
+2026-03-26 23:12:41,389 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 23:12:41,389 | INFO | rag_pipeline | 2 documents après déduplication
+2026-03-26 23:12:43,777 | INFO | rag_pipeline | Question ID 1 -> Success: True
+2026-03-26 23:12:44,075 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 23:12:44,075 | INFO | rag_pipeline | 3 documents après déduplication
+2026-03-26 23:12:48,270 | INFO | rag_pipeline | Question ID 2 -> Success: True
+2026-03-26 23:12:48,582 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 23:12:48,582 | INFO | rag_pipeline | 2 documents après déduplication
+2026-03-26 23:12:50,181 | INFO | rag_pipeline | Question ID 3 -> Success: True
+2026-03-26 23:12:50,468 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 23:12:50,468 | INFO | rag_pipeline | 2 documents après déduplication
+2026-03-26 23:12:51,266 | INFO | rag_pipeline | Question ID 4 -> Success: False
+2026-03-26 23:12:51,680 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 23:12:51,680 | INFO | rag_pipeline | 3 documents après déduplication
+2026-03-26 23:12:53,868 | INFO | rag_pipeline | Question ID 5 -> Success: True
+2026-03-26 23:12:54,130 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 23:12:54,130 | INFO | rag_pipeline | 2 documents après déduplication
+2026-03-26 23:12:56,051 | INFO | rag_pipeline | Question ID 6 -> Success: True
+2026-03-26 23:12:56,313 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 23:12:56,313 | INFO | rag_pipeline | 3 documents après déduplication
+2026-03-26 23:13:00,120 | INFO | rag_pipeline | Question ID 7 -> Success: True
+2026-03-26 23:13:00,383 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 23:13:00,383 | INFO | rag_pipeline | 3 documents après déduplication
+2026-03-26 23:13:02,700 | INFO | rag_pipeline | Question ID 8 -> Success: True
+2026-03-26 23:13:03,051 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 23:13:03,051 | INFO | rag_pipeline | 2 documents après déduplication
+2026-03-26 23:13:04,989 | INFO | rag_pipeline | Question ID 9 -> Success: True
+2026-03-26 23:13:05,260 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 23:13:05,260 | INFO | rag_pipeline | 2 documents après déduplication
+2026-03-26 23:13:06,780 | INFO | rag_pipeline | Question ID 10 -> Success: True
+2026-03-26 23:13:07,051 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 23:13:07,051 | INFO | rag_pipeline | 2 documents après déduplication
+2026-03-26 23:13:09,434 | INFO | rag_pipeline | Question ID 11 -> Success: True
+2026-03-26 23:13:09,910 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 23:13:09,910 | INFO | rag_pipeline | 2 documents après déduplication
+2026-03-26 23:13:11,581 | INFO | rag_pipeline | Question ID 12 -> Success: True
+2026-03-26 23:13:11,867 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 23:13:11,867 | INFO | rag_pipeline | 3 documents après déduplication
+2026-03-26 23:13:13,537 | INFO | rag_pipeline | Question ID 13 -> Success: True
+2026-03-26 23:13:13,823 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 23:13:13,823 | INFO | rag_pipeline | 2 documents après déduplication
+2026-03-26 23:13:14,587 | INFO | rag_pipeline | Question ID 14 -> Success: False
+2026-03-26 23:13:14,873 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 23:13:14,873 | INFO | rag_pipeline | 3 documents après déduplication
+2026-03-26 23:13:15,780 | INFO | rag_pipeline | Question ID 15 -> Success: False
+2026-03-26 23:13:16,051 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 23:13:16,051 | INFO | rag_pipeline | 3 documents après déduplication
+2026-03-26 23:13:16,703 | INFO | rag_pipeline | Question ID 16 -> Success: False
+2026-03-26 23:13:17,005 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 23:13:17,005 | INFO | rag_pipeline | 2 documents après déduplication
+2026-03-26 23:13:18,688 | INFO | rag_pipeline | Question ID 17 -> Success: True
+2026-03-26 23:13:19,292 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 23:13:19,292 | INFO | rag_pipeline | 3 documents après déduplication
+2026-03-26 23:13:21,678 | INFO | rag_pipeline | Question ID 18 -> Success: True
+2026-03-26 23:13:22,089 | INFO | rag_pipeline | Top 3 documents récupérés
+2026-03-26 23:13:22,089 | INFO | rag_pipeline | 3 documents après déduplication
+2026-03-26 23:13:23,784 | INFO | rag_pipeline | Question ID 19 -> Success: False
+2026-03-26 23:13:23,792 | INFO | rag_pipeline | ✅ Évaluation terminée. Résultats sauvegardés dans evaluation/rag_eval_results.json
+2026-03-26 23:13:23,793 | INFO | rag_pipeline | 📊 Total questions : 19
+2026-03-26 23:13:23,795 | INFO | rag_pipeline | 📊 Réponses correctes : 14
+2026-03-26 23:13:23,796 | INFO | rag_pipeline | 📊 Accuracy globale : 73.68%
