@@ -29,6 +29,7 @@ Il permet de fournir des **recommandations personnalisées** en combinant :
 
 ## 🏗 Architecture du pipeline RAG
 
+```mermaid
 flowchart TD
 
     %% =========================
@@ -61,7 +62,7 @@ flowchart TD
     subgraph CHATBOT
         J["👤 Question utilisateur"]
         K["🧠 Embedding requête"]
-        L["🔎 Recherche FAISS (Top K)documents similaires"]
+        L["🔎 Recherche FAISS (Top K) documents similaires"]
         M["📚 Contexte enrichi"]
         N["📝 Prompt RAG<br/>Injection du contexte"]
         O["🤖 LLM Mistral<br/>Génération contrôlée"]
@@ -72,7 +73,7 @@ flowchart TD
 
     %% Lien entre index et chatbot
     I --> L
-
+```
 ---
 
 ## ⚙️ Fonctionnement (How it works)
@@ -189,7 +190,7 @@ pytest tests/ -v
 python -m evaluation.test_rag_evaluation
 ```
 
-### 6. Exemple d'utilisation
+### 8. Exemple d'utilisation
 
 ```text
 Utilisateur : Quels sont les événements culturels en plein air à Marseille ?
