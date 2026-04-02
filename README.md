@@ -233,8 +233,7 @@ cultural-events-rag/
 │  ├─ step2_rag_indexing.py           # Etape 2: Chunking + embeddings + index FAISS
 │  ├─ step3_rag_chatbot.py            # Etape 3: Chatbot RAG (retrieval + génération Mistral)
 │  ├─ logger.py                       # Journalisation centralisé
-│  └─ config.py                       # Configuration centralisée
-│                                     # (paths, modèles, chunk_size, batch_size, etc.)
+│  └─ config.py                       # Configuration centralisée (paths, modèles, chunk_size, batch_size, etc.)
 │
 ├─ tests/                             # Tests automatisés (pytest)
 │  ├─ test_data_collection.py         # Tests unitaires étape 1
