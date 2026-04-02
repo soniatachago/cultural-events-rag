@@ -10,6 +10,7 @@ from pathlib import Path
 import requests
 import pandas as pd
 import logging
+import time
 from scripts.config import LOGGER, MAX_RETRIES, TIMEOUT, API_URL, PARAMS, OUTPUT_PATH, MD_OUTPUT_DIR
 
 

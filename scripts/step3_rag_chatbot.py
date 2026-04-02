@@ -16,6 +16,7 @@ from langchain_core.prompts import PromptTemplate
 from scripts.config import LOGGER, MAX_RETRIES, MODEL_EMBED_NAME, MODEL_LLM, FAISS_INDEX_PATH , METADATA_PATH, TOP_K
 from dotenv import load_dotenv
 import os
+import time
 
 
 # -----------------------------

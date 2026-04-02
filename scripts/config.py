@@ -22,7 +22,7 @@ LOGGER = setup_logger()
 # -----------------------------
 MAX_RETRIES = 3
 RETRY_DELAY = 2
-TIMEOUT = 10  # secondes
+TIMEOUT = 60  # secondes
 
 
 # -----------------------------
@@ -43,7 +43,7 @@ EXPECTED_CITY = "Marseille"
 PARAMS = {
     "select": "uid, title_fr, description_fr, longdescription_fr, location_city, location_region, location_name, firstdate_begin, firstdate_end, location_tags",
     "where": f"longdescription_fr IS NOT NULL AND location_city = '{EXPECTED_CITY}' AND firstdate_begin >= '{one_year_ago_str}'",
-    "order_by": "firstdate_begin"
+    "order_by": "firstdate_begin desc"
     ,"limit": 100
 }
 

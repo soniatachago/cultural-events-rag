@@ -15,6 +15,7 @@ import numpy as np
 import faiss
 from scripts.config import LOGGER, MAX_RETRIES, RETRY_DELAY, CHUNK_SIZE, CHUNK_OVERLAP, SEPARATORS, MODEL_EMBED_NAME, BATCH_SIZE, EMBEDDINGS_OUTPUT, CSV_INPUT_PATH, FAISS_INDEX_DIR
 from dotenv import load_dotenv
+import time
 import os
 
 
