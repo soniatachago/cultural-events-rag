@@ -1,13 +1,13 @@
-# Atelier de fabrication de marionnettes géantes avec Claire Bouffay / Centre social de Frais Vallon
+# Détection de Potentiel Santé
 
-                - Event_id : 77510403
-                - Type évènement : Centre d’art;Centre culturel
-                - Date de début : 2025-07-15T08:00:00+00:00
-                - Date de fin : 2025-07-15T10:00:00+00:00
+                - Event_id : 12757052
+                - Type évènement : None
+                - Date de début : 2026-04-28T07:00:00+00:00
+                - Date de fin : 2026-04-28T10:00:00+00:00
                 - Ville : Marseille
-                - Lieu : La compagnie
+                - Lieu : Marseille 16e Arrondissement - Agence MARSEILLE MOUREPIANE
                 - Région : Provence-Alpes-Côte d'Azur
 
                 ## Description Complète
-                <p>Ateliers collectifs pour créer des pantins et des marionnettes de grande taille qui pourront être activées. Une ou plusieursmarionnettes pourront être construires et portées sur les épaules ou déplacées à plusieurs. Les participants et l'artiste réfléchiront ensemble à quels personnages, animaux ou plantes ils souhaitent rendre hommage, en gardant en tête que les manifestations artistiques peuvent transmettre des revendications.<br>15/07 - 18/07 : atelier à La compagnie avec le centre social de Frais Vallon<br>21/07 - 25/07 : semaine de résidence</p>
+                <p>Vous souhaitez changer de voie ? Vous êtes attiré par un secteur et vous vous demandez s'il peut vous correspondre ? Vous ne savez pas vers quel secteur vous orienter ? Alors n'attendez plus et venez participer à l'Atelier Détection de Potentiel Santé pour envisager votre avenir professionnel ! Un dispositif financé par la Région Sud.</p> <p>Présentation du secteur Témoignage d'un professionnel Testez vos aptitudes avec des exercices de mise en situation Bénéficiez de propositions concrètes immédiates</p>
             

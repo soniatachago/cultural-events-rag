@@ -1,13 +1,13 @@
-# Black sound tricks & Friends
+# Et si votre prochain job vous ressemblait vraiment ? (réservé région PACA)
 
-                - Event_id : 30683164
-                - Type évènement : Arts de la rue;Art urbain
-                - Date de début : 2025-06-21T10:00:00+00:00
-                - Date de fin : 2025-06-21T21:59:00+00:00
+                - Event_id : 20373418
+                - Type évènement : None
+                - Date de début : 2026-05-12T08:00:00+00:00
+                - Date de fin : 2026-05-12T10:00:00+00:00
                 - Ville : Marseille
-                - Lieu : Place Jean Jaurès 13001 Marseille
+                - Lieu : Marseille - DR PROVENCE ALPES COTE D'AZUR
                 - Région : Provence-Alpes-Côte d'Azur
 
                 ## Description Complète
-                <p>Pour célébrer la Fête de la Musique 2025, le collectif Black Sound Tricks vous invite à une soirée immersive au cœur de Marseille. Depuis sa création en janvier 2023, notre collectif s'engage à promouvoir la culture de la musique électronique à travers des événements, rassemblant artistes, passionnés et curieux dans des lieux uniques, qu'ils soient publics ou privés<br>Line-up 100% local : Nos DJ résidents, accompagnés de talents émergents de la scène marseillaise, vous proposeront des sets allant house, techno &amp; acid.<br>Black Sound Tricks prône la diversité et met en avant l'importance que chacun puisse se sentir libre lors de nos soirées. Nous encourageons vivement notre public à s'habiller de la manière qui reflète le mieux leur personnalité et leur style, sans crainte de jugement. Nos événements sont des espaces inclusifs où l'expression de soi, sous toutes ses formes, est non seulement acceptée, mais célébrée.</p>
+                <p>Vous cherchez un emploi qui a du sens ? Vous envisagez une reconversion mais ne savez pas par où commencer ? Et si la clé était de mieux vous connaître professionnellement pour faire les bons choix ? Nous vous invitons à un webinaire interactif dédié à celles et ceux qui veulent reprendre le contrôle de leur avenir professionnel. Au programme : Identifier vos aspirations, talents et motivations profondes Comprendre comment les aligner avec les réalités du marché du travail Découvrir des outils n</p>
             

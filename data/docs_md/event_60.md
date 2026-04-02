@@ -1,13 +1,13 @@
-# Fun Radio Live - Grand Concert Gratuit à Marseille
+# RDV ADIE micro crédit pour les entreprises
 
-                - Event_id : 93191998
-                - Type évènement : Art urbain
-                - Date de début : 2025-06-21T17:00:00+00:00
-                - Date de fin : 2025-06-21T21:59:00+00:00
+                - Event_id : 58100122
+                - Type évènement : None
+                - Date de début : 2026-05-07T09:30:00+00:00
+                - Date de fin : 2026-05-07T10:00:00+00:00
                 - Ville : Marseille
-                - Lieu : Plage Borély
+                - Lieu : Agence MARSEILLE SAINT CHARLES
                 - Région : Provence-Alpes-Côte d'Azur
 
                 ## Description Complète
-                <p>Fun Radio t'invite à vivre la soirée la plus chaude de l'été sur la plage Borély, à Marseille, samedi 21 juin dès 19h !<br>Un cadre de rêve, une ambiance de feu, et un line-up exceptionnel :<br>👉 JUNGELI<br>👉 KEBLACK<br>👉 LENIE<br>👉 LUCAS &amp; STEVE<br>👉 MAGIC SYSTEM<br>👉 PETIT BISCUIT<br>👉 THE AVENER<br>(ordre alphabétique)<br>Un concert gratuit et ouvert à tous, avec les meilleurs artistes du moment, entre sons électro et vibes pop.<br>📍 Plage Borély – Marseille</p>
+                <p>L'ADIE sera présente dans les locaux de l'AGENCE PORTE D'AIX le 9 avril au matin pour proposer des rendez-vous individuels aux demandeurs d'emploi porteurs de projets d'entreprise. Objectif : Accompagnement personnalisé pour les personnes souhaitant créer ou reprendre une entreprise. Les conseillers de l'ADIE guideront les bénéficiaires sur les démarches à suivre et les possibilités de financement.</p> <p>Rendez-vous individuel avec un consultant de l'ADIE</p>
             

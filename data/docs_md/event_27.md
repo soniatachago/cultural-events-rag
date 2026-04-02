@@ -1,13 +1,13 @@
-# Spécial 100 ans des Planétariums
+# Avec l'ADIE je finance mon projet d'entreprise *** réservé BLANCARDE***
 
-                - Event_id : 54441336
-                - Type évènement : Sciences et techniques
-                - Date de début : 2025-05-17T18:30:00+00:00
-                - Date de fin : 2025-05-17T21:00:00+00:00
+                - Event_id : 22962126
+                - Type évènement : None
+                - Date de début : 2026-05-28T08:00:00+00:00
+                - Date de fin : 2026-05-28T08:30:00+00:00
                 - Ville : Marseille
-                - Lieu : Observatoire historique de Marseille - Entrée allée Jean-Louis Pons/Place Rafer".
+                - Lieu : Marseille - Agence BLANCARDE
                 - Région : Provence-Alpes-Côte d'Azur
 
                 ## Description Complète
-                <p>Séance de planétarium "Les modèles du Cosmos".<br>Visite guidée de l'exposition "Couleurs du ciel, Couleurs d'étoiles"<br>Observation de Mars à la Grande lunette historique</p>
+                <p>Présentation de l'ADIE et ces dispositifs de micro crédit</p>
             

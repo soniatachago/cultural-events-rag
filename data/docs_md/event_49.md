@@ -1,13 +1,13 @@
-# Les secrets de la flore de l'île d'If
+# Les collections permanentes
 
-                - Event_id : 75350883
-                - Type évènement : Monument historique;Jardin public
-                - Date de début : 2025-06-07T09:00:00+00:00
-                - Date de fin : 2025-06-07T10:30:00+00:00
+                - Event_id : 66512235
+                - Type évènement : Monument historique;Musée de France;Société et civilisation
+                - Date de début : 2026-05-23T17:00:00+00:00
+                - Date de fin : 2026-05-23T21:45:00+00:00
                 - Ville : Marseille
-                - Lieu : château d'If
+                - Lieu : MAAOA - Musée d'Arts Africains, Océaniens, Amérindiens
                 - Région : Provence-Alpes-Côte d'Azur
 
                 ## Description Complète
-                <p>Petits et grands venez profiter d’un moment au grand air à l’île d’If à l’occasion de « Rendez-vous aux jardins ».<br>Découvrez un patrimoine naturel préservé grâce à une visite guidée de la faune et de la flore insulaire : espèces endémiques, adaptations au milieu marin, et résistance au vent ! Une visite enrichissante complétée par l’exploration d’un cabanon provençal typique, témoin d’un savoir-faire vernaculaire.<br>Apprenez en vous amusant entre nature, culture, et conservation !</p>
+                <p>• De 19h à 21 h<br>Retrouvez les élèves en option danse du lycée Saint Charles et ceux du collège Olympe de Gouges au Centre de la Vieille Charité. Dans le cadre du dispositif La classe l’œuvre, ils vous accompagneront à l’occasion de la Nuit européenne des musées, de la cour aux salles d’exposition, pour une déambulation chorégraphiée mettant en mouvement leur expérience au musée et ce qui les y a touchés.<br>• De 19h à minuit<br>L’équipe de médiation du MAAOA vous accueille pour (re)découvrir les collections du musée, répondre à vos questions, échanger.</p>
             

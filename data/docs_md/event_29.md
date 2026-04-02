@@ -1,13 +1,13 @@
-# Projection du film de voyage à vélo : "Granite, on est libres" de Victor Baer
+# Rendez-vous avez POSITIV (Accompagnement à la création d'entreprise)
 
-                - Event_id : 77522854
+                - Event_id : 45140427
                 - Type évènement : None
-                - Date de début : 2025-05-19T18:30:00+00:00
-                - Date de fin : 2025-05-19T20:30:00+00:00
+                - Date de début : 2026-05-27T13:45:00+00:00
+                - Date de fin : 2026-05-27T14:30:00+00:00
                 - Ville : Marseille
-                - Lieu : Maison du Vélo Marseille Blancarde
+                - Lieu : Agence MARSEILLE SAINT CHARLES
                 - Région : Provence-Alpes-Côte d'Azur
 
                 ## Description Complète
-                <p>Le jour de ses 24 ans, Victor part d'Avignon avec Granite, son vélo, et met le cap vers l'Est sans destination précise.<br><em><strong>GRANITE, ON EST LIBRES</strong></em> est le récit d'un voyage à vélo de la France à l'Iran qui développe, à partir d'expériences vécues, une réflexion personnelle et intime autour de la liberté.<br>Des plateaux d'Anatolie aux grands cols du Caucase, de l'été dans les Alpes à l'hiver arménien, le pédalier tourne et une question demeure : ça veut dire quoi, concrètement,&nbsp;"être&nbsp;libre"&nbsp;?<br>La Maison du Vélo Marseille Blancarde est heureuse d'accueillir la projection d'un film de voyage réalisé par Victor Baer. <strong>Celle-ci se tiendra en sa présence et si la météo le permet, à l'extérieur.</strong></p>
+                <p>Rencontre individuelle avec Cynthia OUZAHRIR Conseillère Entrepreneuriat à POSITIV . Demande de conseils ou d'accompagnement dans le cadre d'un projet de création d'une entreprise.</p> <p>Depuis sa création, la mission de Positiv est de défendre l'idée que le travail, salarié comme entrepreneurial, est l'étape nécessaire et préalable pour s'insérer socialement, économiquement et durablement dans la société. La mission de l'association est d'accompagner les personnes éloignées de l'emploi, quels que so</p>
             

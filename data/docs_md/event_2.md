@@ -1,13 +1,13 @@
-# devenez conducteur de bus H/F -POEI RTM-
+# EAU - Congrès International ICID
 
-                - Event_id : 67500789
+                - Event_id : 56044256
                 - Type évènement : None
-                - Date de début : 2025-03-31T08:00:00+00:00
-                - Date de fin : 2025-03-31T11:30:00+00:00
+                - Date de début : 2026-10-12T08:00:00+00:00
+                - Date de fin : 2026-10-12T16:30:00+00:00
                 - Ville : Marseille
-                - Lieu : Marseille 16e Arrondissement
+                - Lieu : Palais des congrès, Chanot - Marseille (13)
                 - Région : Provence-Alpes-Côte d'Azur
 
                 ## Description Complète
-                <p>Information collective pour les recrutements de conducteur de bus Homme/Femme à la RTM dans le cadre des Préparation Opérationnelle à l'Emploi (POEI).Formation assurée: permis D  Fimo  tutorat interne  CDD de 6 mois minimum.Présentation de la RTM suivie d'entretiens  de pré validation de candidatures. Merci de venir avec un CV à jour. Prérequis: - Avoir 24 ans minimum- Casier vierge- Permis B -ne pas avoir déjà passé les tests de positionnements pour la RTM  dans les 12 derniers mois Merci de créer, avant la réunion, votre espace candidat sur le site « talents.rtm.fr ».</p>
+                <p><strong>Le 26e Congrès International de la CIID ainsi que la 77e Réunion du Comité Exécutif International, se tiendront du 12 au 17 octobre 2026 à Marseille.</strong><br>Le thème principal du Congrès sera :<br><strong>« EAU ET RÉSILIENCE DE L’AGRICULTURE FACE AU CHANGEMENT CLIMATIQUE »</strong><br>Décliné en plusieurs problématiques et structuré autour de différentes sessions. Il est important de rappeler que près des deux tiers des terres agricoles dans le monde dépendent de l’eau de pluie, ce qui fait du climat le facteur principal influençant la productivité des cultures. Le changement climatique représente donc une contrainte majeure, impactant l’agriculture à la fois directement et indirectement.<br>C’est pourquoi faire face à cette crise climatique exige des changements radicaux et une restructuration profonde de nos systèmes agricoles traditionnels. Il ne fait aucun doute que garantir la sécurité en eau et en alimentation passera par une agriculture irriguée moderne et innovante.<br>Dès lors, nous devons nous poser la question suivante : comment l’irrigation moderne et une bonne gestion des systèmes de drainage peuvent-elles contribuer à cette transition agroécologique ?<br>Toutes les informations sur le site :<br><a href="https://icidcongress2026.org/fr/">https://icidcongress2026.org/fr/</a><br><strong>Programme</strong><br><a href="https://icidcongress2026.org/fr/programme/">https://icidcongress2026.org/fr/programme/</a></p>
             

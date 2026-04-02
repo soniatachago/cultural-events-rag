@@ -1,13 +1,13 @@
-# Fête du Vélo à Malpassé - Marseille
+# 13 - Préférence Provence revient à Marseille du 19 au 21 juin 2026 !
 
-                - Event_id : 55014241
+                - Event_id : 97979052
                 - Type évènement : None
-                - Date de début : 2025-04-30T12:00:00+00:00
-                - Date de fin : 2025-04-30T15:00:00+00:00
+                - Date de début : 2026-06-19T08:00:00+00:00
+                - Date de fin : 2026-06-19T16:00:00+00:00
                 - Ville : Marseille
-                - Lieu : Musée de la Moto, Marseille
+                - Lieu : Hôtel du Département des Bouches-du-Rhône, Marseille (13)
                 - Région : Provence-Alpes-Côte d'Azur
 
                 ## Description Complète
-                <p>Le mercredi 30 avril, c'est la Fête du Vélo à Malpassé !<br>Rendez-vous au musée de la moto pour une après-midi festive et familiale autour de la thématique du vélo et des mobilités. Au programme : un parcours vélo, de l'initiation au BMX, des ateliers prévention éducation routière, de la co-réparation vélo, des visites du musée de la moto, une balade à vélo, une braderie, un jeux concours avec un vélo à gagner... Et pleins d'autres surprises ! ☀️🚲<br>👉 De 14h à 17h au Musée de la Moto,18 traverse Saint Paul, 13013 Marseille<br>L'évènement est organisé dans le cadre des Cités Educatives, en collaboration avec de nombreux acteurs de quartier et du secteur du vélo : USEP, AMSCAS, Ville de Marseille, Métropole AMP, Centre Social Malpassé, Centre Social Saint Just, Centre Social Les Lilas</p>
+                <h3>Après le succès de sa première édition en 2025, la Métropole et le Département renouvellent ce grand rendez‑vous dédié à l’identité provençale, à l’agriculture et à l’artisanat. Organisé à l’Hôtel du Département, le salon avait rassemblé plusieurs milliers de visiteurs dans une ambiance conviviale et familiale.</h3> <p>La Chambre d’Agriculture des Bouches‑du‑Rhône invite les agriculteurs et artisans du territoire à participer à cette nouvelle édition et à valoriser leur savoir‑faire auprès d’un large public grâce à un dispositif de communication renforcé.<br><strong>Dates et horaires :</strong></p> <ul> <li>Vendredi 19 juin : 10h–18h</li> <li>Samedi 20 juin : 10h–22h</li> <li>Dimanche 21 juin : 10h–18h</li> </ul> <p><strong>Modalités d’inscription :</strong></p> <ul> <li>Tarif unique exposant : 90 € pour les 3 jours</li> <li>Chèque de caution : 300 €, restitué en fin d’événement</li> </ul> <p>Mise à disposition : table 2 m + 2 chaises (4 m linéaires pour producteurs de fruits et légumes)<br>Stands restauration/boissons installés en extérieur sous tente 3×3 m ; autres exposants dans l’Atrium<br>Prise électrique sur demande</p> <h3>Les candidatures sont à envoyer avant le 4 mars 2026.</h3> <p>L’organisation procédera à une sélection si nécessaire.<br><strong>Vos Contacts à la Chambre d'agriculture 13 :</strong></p> <ul> <li>Lauriane Chambon : 07 86 84 27 73 / <a href="mailto:l.chambon@bouches-du-rhone.chambagri.fr">l.chambon@bouches-du-rhone.chambagri.fr</a></li> <li>Adeline Visconti 06 33 11 55 37 / <a href="mailto:a.visconti@bouches-du-rhone.chambagri.fr">a.visconti@bouches-du-rhone.chambagri.fr</a></li> </ul>
             

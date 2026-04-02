@@ -1,13 +1,13 @@
-# Les chemins de l'école
+# Abidjan - Marseille, une mémoire partagée
 
-                - Event_id : 64005768
+                - Event_id : 27140957
                 - Type évènement : None
-                - Date de début : 2025-07-28T07:00:00+00:00
-                - Date de fin : 2025-07-28T09:00:00+00:00
+                - Date de début : 2026-04-24T17:00:00+00:00
+                - Date de fin : 2026-04-24T20:30:00+00:00
                 - Ville : Marseille
-                - Lieu : Maison des familles et des associations
+                - Lieu : Maison de l'architecture et de la ville PACA (MAV PACA)
                 - Région : Provence-Alpes-Côte d'Azur
 
                 ## Description Complète
-                <p>L’idée est d’explorer le trajet quotidien comme un espace de vie, de traces et de récits.<br>À travers une série d’ateliers mêlant peinture, écriture, collage, observation et collecte, nous construirons ensemble une cartographie sensible de ce chemin : une œuvre collective faite de mots, d’images, d’empreintes et de liens.<br>Le projet se déploiera en 8 à 10 séances, avec la possibilité d'une restitution finale pour la dernière séance.<br>Séances 1-2 : Présentation du projet, échanges avec les enfants, premières explorations (peinture, dessins, cartes imaginaires).<br>Séances 3-4 : Sortie (si possible) pour collecter des traces : empreintes, textures, photos, frottages.<br>Séances 5-6 : Jeux collectifs (cadavres exquis dessinés et écrits), création de mosaïques d’images et de mots.<br>Séances 7-8 : Collages, fabrication de cartes sensibles mêlant textes et images.<br>Séances 9-10 : Finalisation des œuvres : grande carte collective + fils d’écriture dans l’espace / mise en place de l’exposition.</p>
+                <p>Cette conversation explore les circulations architecturales entre la Côte d’Ivoire post-indépendance et Marseille d’après-guerre, en mettant en regard reconstruction, modernité et transferts de modèles. Elle examine l’héritage de Fernand Pouillon et Auguste Perret, ainsi que leur influence dans les contextes méditerranéens et ouest-africains.<br>En Côte d’Ivoire, les grands chantiers post-indépendance menés par Badani &amp; Roux-Dorlut, Henri Chomette ou Michel Ducharme, Christian Larras et Jean Pierre Minost (bureau d’études DLM), parfois inspirés de ces figures majeures, ont contribué à façonner un modernisme africain singulier. Cet héritage continue aujourd’hui d’inspirer les jeunes générations d’architectes entre Abidjan et Marseille.<br>Discussion entre Francis Sossah, architecte et Président de l'Union des Architectes d'Afrique (UAA), Modeste Palé, architecte, à l'occasion de l'ouverture du Festival franco-ivoirien Réminiscence, et Amel Zerourou, Enseignante-chercheuse à l’ensa•m.<br>Échange modéré par Marcos Carvalho-Canto (Chargé d'études documentaires, Responsable des restaurations au Centre des archives de la Cité de l'Architecture et du Patrimoine).</p> <p>Inscriptions : <a href="https://www.reminiscence-festival.com/le-programme/talk">https://www.reminiscence-festival.com/le-programme/talk</a></p>
             

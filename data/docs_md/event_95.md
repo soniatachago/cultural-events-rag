@@ -1,13 +1,13 @@
-# Rouvrir le monde / Cadavre exquis animé / Clara Buffey
+# DETECTION DE POTENTIEL INDUSTRIE : Venez découvrir les métiers en lien avec l'industrie et testez-vous !
 
-                - Event_id : 68045910
+                - Event_id : 6376493
                 - Type évènement : None
-                - Date de début : 2025-08-04T08:00:00+00:00
-                - Date de fin : 2025-08-04T10:00:00+00:00
+                - Date de début : 2026-04-23T07:00:00+00:00
+                - Date de fin : 2026-04-23T10:00:00+00:00
                 - Ville : Marseille
-                - Lieu : Association chers voisins
+                - Lieu : Agence MARSEILLE PONT DE VIVAUX
                 - Région : Provence-Alpes-Côte d'Azur
 
                 ## Description Complète
-                <p>L'atelier "Le Cadavre Exquis Animé" est une expérience collaborative où les enfants sont invités à créer ensemble un court métrage d'animation en combinant leurs dessins individuels dans un scénario commun. Inspiré par le jeu du cadavre exquis et le film "Shrek retold", ce projet encourage la créativité, l'imagination et la coopération tout en explorant différentes interprétations d'une histoire choisie collectivement, afin de remettre en question l’idée de récit unique.</p>
+                <p>Vous souhaitez changer de voie ? Vous êtes attirés par un secteur et vous vous demandez s'il peut vous correspondre ? Vous ne savez pas vers quel secteur vous orienter ? Participez à une session de détection de potentiel pour envisager votre avenir professionnel : - Rencontrez un professionnel du secteur : CRIT INTERIM - Découvrez les métiers et les opportunités d'emploi - Testez vos aptitudes avec des exercices de mise en situation</p> <p>Le parcours repose sur un enchainement d'étapes formant une sé</p>
             

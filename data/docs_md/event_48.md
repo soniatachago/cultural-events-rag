@@ -1,13 +1,13 @@
-# À la recherche du trésor des Borély : Visite famille
+# Les collections permanentes
 
-                - Event_id : 92752884
-                - Type évènement : Jardin régulier (à la française);Parc paysager (à l'anglaise);Jardin de collection (botanique, arboretum...);Jardin public;Jardin remarquable
-                - Date de début : 2025-06-07T08:30:00+00:00
-                - Date de fin : 2025-06-07T10:00:00+00:00
+                - Event_id : 82438390
+                - Type évènement : Musée de France;Monument historique;Arts décoratifs;Château, hôtel urbain, palais, manoir;Art moderne et contemporain;Insolites;Histoire
+                - Date de début : 2026-05-23T17:00:00+00:00
+                - Date de fin : 2026-05-23T20:30:00+00:00
                 - Ville : Marseille
-                - Lieu : Château et parc Borély
+                - Lieu : Château Borély - Musée des arts décoratifs, de la faïence et de la mode
                 - Région : Provence-Alpes-Côte d'Azur
 
                 ## Description Complète
-                <p><strong>En compagnie du guide, il faudra suivre les indices et se rendre dans différents endroits du parc afin de résoudre des devinettes qui mèneront à la découverte du trésor. Ce sera l’occasion de découvrir le patrimoine et la botanique du parc.</strong><br>Itinéraire pédestre 1h30.<br>Point de rendez-vous: 10 minutes avant le départ, devant l'entrée principale du parc Borély (devant les grilles), Av. du Parc Borély, 13008<br>Bus 19 et 83 (Parc Borély)<br>Prévoir des chaussures confortables + de l'eau + un chapeau ou une casquette.<br>Jauge 30 pax. À partir de 6 ans avec 1 adulte accompagnant par inscription.<br>Chiens non autorisés sauf chiens d'assistance.<br>(Visite du jardin botanique non comprise dans l'offre.)</p>
+                <p><strong>• 19h-22h30&nbsp;: La Classe L’oeuvre, restitution du projet Les jardins voyageurs</strong>&nbsp;<br>Trois classes de l’école élémentaire de La Corderie ont participé au projet «&nbsp;Les jardins voyageurs&nbsp;» autour de la thématique de l'eau à Marseille. À partir d’une visite du jardin botanique, du Château Borély et du Musée d’Histoire de Marseille, les élèves ont imaginé en classe des œuvres en lien avec les jardins, l'eau et Marseille.</p>
             

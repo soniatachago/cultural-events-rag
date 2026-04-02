@@ -1,13 +1,13 @@
-# Points paroles dans les collections permanentes
+# Création d'entreprise - TRANSFORAMA
 
-                - Event_id : 68221604
-                - Type évènement : Monument historique;Musée de France;Société et civilisation
-                - Date de début : 2025-05-17T17:00:00+00:00
-                - Date de fin : 2025-05-17T19:59:00+00:00
+                - Event_id : 91656597
+                - Type évènement : None
+                - Date de début : 2026-06-04T09:00:00+00:00
+                - Date de fin : 2026-06-04T11:00:00+00:00
                 - Ville : Marseille
-                - Lieu : MAAOA - Musée d'Arts Africains, Océaniens, Amérindiens
+                - Lieu : Marseille - Agence BLANCARDE
                 - Région : Provence-Alpes-Côte d'Azur
 
                 ## Description Complète
-                <p>Retrouvez les médiatrices du MAAOA pour des points paroles dans les collections permanentes du musée, ainsi que les élèves spécialité Histoire des arts du lycée Périer pour des médiations originales.</p>
+                <p>Présentation de l'offre TRANSFORAMA</p> <p>Accompagnement sur la création d'entreprise</p>
             

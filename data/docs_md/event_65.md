@@ -1,13 +1,13 @@
-# Chuchumi avec Fabienne Guilbert Burgoa / Refuge Migrants LGBTQI+
+# RDV ADIE micro crédit pour les entreprises
 
-                - Event_id : 6469760
-                - Type évènement : Centre d’art;Centre culturel
-                - Date de début : 2025-06-29T12:00:00+00:00
-                - Date de fin : 2025-06-29T14:00:00+00:00
+                - Event_id : 81988005
+                - Type évènement : None
+                - Date de début : 2026-05-07T08:00:00+00:00
+                - Date de fin : 2026-05-07T08:30:00+00:00
                 - Ville : Marseille
-                - Lieu : La compagnie
+                - Lieu : Agence MARSEILLE SAINT CHARLES
                 - Région : Provence-Alpes-Côte d'Azur
 
                 ## Description Complète
-                <p>Ateliers centrés sur des pratiques de création textile, l'artiste et les participants explorent la représentation poétique du "chuchumi" afin de créer un espace physique de mémoire collective, convivial et onirique.<br>14/07 - 19/07 : résidence<br>Les dimanches du mois de juillet (29/06, 06/07, 13/07, 20/07, 27/07) : ateliers à La compagnie avec Refuge Migrants LGBTQI+</p>
+                <p>L'ADIE sera présente dans les locaux de l'AGENCE PORTE D'AIX le 9 avril au matin pour proposer des rendez-vous individuels aux demandeurs d'emploi porteurs de projets d'entreprise. Objectif : Accompagnement personnalisé pour les personnes souhaitant créer ou reprendre une entreprise. Les conseillers de l'ADIE guideront les bénéficiaires sur les démarches à suivre et les possibilités de financement.</p> <p>Rendez-vous individuel avec un consultant de l'ADIE</p>
             

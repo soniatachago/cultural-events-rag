@@ -1,13 +1,13 @@
-# Célébrons les Producteurs de chez nous au U Express de MARSEILLE CHUTES LAVIE
+# Visite Flash : Naviguer en Méditerranée à l’époque antique
 
-                - Event_id : 34057070
-                - Type évènement : None
-                - Date de début : 2025-06-07T07:00:00+00:00
-                - Date de fin : 2025-06-07T17:00:00+00:00
+                - Event_id : 29709465
+                - Type évènement : Musée de France;Archéologie;Histoire
+                - Date de début : 2026-05-23T17:30:00+00:00
+                - Date de fin : 2026-05-23T18:00:00+00:00
                 - Ville : Marseille
-                - Lieu : U Express Marseille Chutes Lavie
+                - Lieu : Musée d'histoire de Marseille
                 - Région : Provence-Alpes-Côte d'Azur
 
                 ## Description Complète
-                <p>Ce samedi 7 juin, votre magasin U vous propose de faire un don pour accompagner les agriculteurs dans la réalisation de leurs projets. Les sommes récoltées seront reversées à l'association Les Agriculteurs ont du cœur, qui encourage les actions positives en faveur du monde agricole. Chaque montant donné sera doublé par votre magasin U.</p>
+                <p>De l’arrivée des premiers phocéens à l’apogée de l’Empire Romain, Marseille est un port de bateliers, de marins, de pêcheurs et de commerçants. Les épaves des collections antiques du musée, précieux témoins, nous révèlent cette histoire, et celles des marseillais d’autrefois.<br>En lien avec la Saison méditerranée, des visites-flash et ateliers sur le thème de Marseille et la Méditerranée vous sont proposés.<br>Accès libre dans la limite des places disponibles. Attention jauge limitée.</p>
             

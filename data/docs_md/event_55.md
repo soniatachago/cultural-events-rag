@@ -1,13 +1,13 @@
-# Webinaire : On audite votre site en direct - CMA PACA
+# Webinaire Google / créateurs : branding Express ou comment structurer sa marque et booster son image (réservé région PACA)
 
-                - Event_id : 75006183
+                - Event_id : 39012307
                 - Type évènement : None
-                - Date de début : 2025-06-19T10:30:00+00:00
-                - Date de fin : 2025-06-19T11:30:00+00:00
+                - Date de début : 2026-05-19T08:00:00+00:00
+                - Date de fin : 2026-05-19T10:00:00+00:00
                 - Ville : Marseille
-                - Lieu : CMA PACA
+                - Lieu : Marseille - DR PROVENCE ALPES COTE D'AZUR
                 - Région : Provence-Alpes-Côte d'Azur
 
                 ## Description Complète
-                <p>L'UX design, c'est concevoir un site optimisé pour une meilleure expérience possible. Comment est le vôtre ? Il a des boutons d'action ? Un entonnoir clair ? Des possibilités de contact ? Des prix affichés ?</p> <p><strong>Dans ce webinaire d'1h, on vous propose de visiter vos sites pour vous donner des pistes d'amélioration.</strong></p> <p>/!\ Places limitées /!\</p> <p><a href="https://forms.gle/q5YBdLT4jWsiXpyG9"><strong>&gt;&gt; Inscription</strong></a></p>
+                <p>Et si votre marque devenait claire, cohérente et mémorable ? Tu avez une idée, un projet, une entreprise, mais votre image ne reflète pas encore votre ambition ? Nous avons le plaisir de vous inviter à un webinaire exclusif organisé avec Google, spécialement conçu pour les créateurs et futurs entrepreneurs. Pendant ce webinaire, vous allez apprendre à : Poser les bases solides de votre identité de marque Construire une stratégie éditoriale alignée Créer une identité visuelle professionnelle grâc</p>
             

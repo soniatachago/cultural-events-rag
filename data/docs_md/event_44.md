@@ -1,13 +1,13 @@
-# Distribution de colis alimentaires pour les étudiants juin 2025
+# Exposition :  ART NOUVEAU – ART DÉCO. Marseille au cœur des styles (8 mai 2026 – 25 avril 2027)
 
-                - Event_id : 27226723
-                - Type évènement : None
-                - Date de début : 2025-06-07T07:00:00+00:00
-                - Date de fin : 2025-06-07T10:00:00+00:00
+                - Event_id : 71694462
+                - Type évènement : Musée de France;Monument historique;Arts décoratifs;Château, hôtel urbain, palais, manoir;Art moderne et contemporain;Insolites;Histoire
+                - Date de début : 2026-05-23T17:00:00+00:00
+                - Date de fin : 2026-05-23T21:59:00+00:00
                 - Ville : Marseille
-                - Lieu : Info Jeunes Sud Provence-Alpes-Côte d'Azur
+                - Lieu : Château Borély - Musée des arts décoratifs, de la faïence et de la mode
                 - Région : Provence-Alpes-Côte d'Azur
 
                 ## Description Complète
-                <p>Cop1 – Solidarités Étudiantes, association nationale, neutre et non partisane, propose des distributions de paniers alimentaires et de produits d’hygiène gratuits aux étudiants.</p> <p>L’association propose également des actions de suivi et d’accompagnement des étudiants, les redirige vers les services dont ils ont besoin, ainsi que des rencontres, des conférences, des ateliers…</p> <p>Durant le mois de juin 2025, les samedis 7 juin, 14 juin et 21 juin au matin, venez récupérer votre panier dans nos locaux : Info Jeunes, 96 La Canebière, 13001 Marseille.</p> <p>Pour bénéficier de ces distributions, l’inscription est obligatoire via le formulaire (ouvert quelques jours avant la distribution) sur le compte Instagram de l’association Cop1.</p>
+                <p><strong>• VISITE LIBRE</strong> de l’exposition Art nouveau – Art déco. Marseille au cœur des styles et des collections<br><strong>• VISITES FLASH</strong><br>- Autour de l’exposition Art nouveau – Art déco. Marseille au cœur des styles&nbsp;: 19h45, 20h45, 21h15, 21h45, 22h45<br>- Autour des collections permanentes&nbsp;: 20h, 21h, 22h</p>
             

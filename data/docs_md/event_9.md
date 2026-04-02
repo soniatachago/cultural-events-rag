@@ -1,13 +1,13 @@
-# Complet l Atelier jardinage : “Les plantes, une passion qui traverse le temps”
+# Découvrez un outil permettant de développer vos compétences vis à vis de l'IA (réservé PACA)
 
-                - Event_id : 17837297
+                - Event_id : 14096267
                 - Type évènement : None
-                - Date de début : 2025-05-02T08:00:00+00:00
-                - Date de fin : 2025-05-02T10:30:00+00:00
+                - Date de début : 2026-06-18T13:00:00+00:00
+                - Date de fin : 2026-06-18T13:30:00+00:00
                 - Ville : Marseille
-                - Lieu : Jardin partagé “Les Mains Vertes”
+                - Lieu : Marseille - DR PROVENCE ALPES COTE D'AZUR
                 - Région : Provence-Alpes-Côte d'Azur
 
                 ## Description Complète
-                <p>Les savoirs en jardinage se transmettent depuis des siècles… et aujourd’hui, les jeunes et les seniors peuvent apprendre ensemble à cultiver la terre différemment ! Cet atelier pratique propose une découverte des plantes médicinales et comestibles, avec des conseils sur la permaculture et l’entretien naturel du jardin. Un moment pour échanger sur nos liens avec la nature, tout en mettant les mains dans la terre.</p>
+                <p>En vue de vous aider à développer vos compétences et optimiser votre recherche d'emploi, nous vous présentons notre dernier outil dédié à l'intelligence artificielle générative : le Calendrier de l'IA. 100% gratuit, celui-ci est fait pour vous !!! Accessible et ludique, ce calendrier vous permet d'acquérir des compétences de manière interactive et adaptée à vos besoins. Avec ce calendrier, vous pourrez : -utiliser des IA génératives pour diverses tâches quotidiennes, -apprendre à formuler des pr</p>
             

@@ -1,13 +1,13 @@
-# 17h-21h
+# RENDEZ-VOUS AVEC POSITIV (Accompagnement à la Création d'Entreprise)
 
-                - Event_id : 67605061
+                - Event_id : 41293756
                 - Type évènement : None
-                - Date de début : 2025-08-18T07:00:00+00:00
-                - Date de fin : 2025-08-18T15:00:00+00:00
+                - Date de début : 2026-04-22T10:30:00+00:00
+                - Date de fin : 2026-04-22T11:00:00+00:00
                 - Ville : Marseille
-                - Lieu : CSAPA LA CORNICHE
+                - Lieu : Agence MARSEILLE BELLE DE MAI
                 - Région : Provence-Alpes-Côte d'Azur
 
                 ## Description Complète
-                <p>L'artiste photographe Alice Delanghe interviendra au Centre de Soins, d'Accompagnement et de Prévention en Addictologie La Corniche, auprès d'un groupe d'environ 10 jeunes.<br>Elle invitera la journaliste et écrivaine Clara Hellner à collaborer à son projet, particulièrement pour les questions de mise en forme textuelle des récits recueillis tout au long du projet.<br>Ces récits proviennent d'interviews individuels réalisés avec les jeunes, à l'aide de téléphone ou d'un enregistreur zoom h4n.<br>Alice Delanghe fera intervenir la photographie de différente manières :<br>elle invitera les jeunes à réaliser des portraits au sein du centre. Elle pense proposer des mises en scène de portraits décidées avec chacun·e des jeunes, au moyen format argentique 6x6.<br>en parallèle, elle les invitera à pratiquer la photographie en autonomie lors de leurs sorties en quartier libre hors du centre, de 17h à 21h, avec leurs téléphones.<br>Les différents matériaux issus des pratiques photographiques et d'interviews seront mis en forme collectivement sous une forme éditoriale à préciser ensemble.</p>
+                <p>Rencontre individuelle avec Cynthia Ouzahrir Conseillère Entrepreneuriat chez Positiv Demande de conseils ou d'accompagnement dans le cadre d'un projet de création d'une entreprise.</p> <p>Depuis sa création, la mission de Positiv est de défendre l'idée que le travail, salarié comme entrepreneurial, est l'étape nécessaire et préalable pour s'insérer socialement, économiquement et durablement dans la société. La mission de l'association est d'accompagner les personnes éloignées de l'emploi, quels que s</p>
             

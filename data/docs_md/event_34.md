@@ -1,13 +1,13 @@
-# Les 4e Rencontres du vélo et des mobilités douces
+# Performance musicale : « Collectif marseillais CABARAÏ» sur le site archéologique du Port antique
 
-                - Event_id : 62839749
-                - Type évènement : None
-                - Date de début : 2025-05-23T06:30:00+00:00
-                - Date de fin : 2025-05-23T12:00:00+00:00
+                - Event_id : 66403394
+                - Type évènement : Musée de France;Archéologie;Histoire
+                - Date de début : 2026-05-23T20:30:00+00:00
+                - Date de fin : 2026-05-23T21:30:00+00:00
                 - Ville : Marseille
-                - Lieu : La coque
+                - Lieu : Musée d'histoire de Marseille
                 - Région : Provence-Alpes-Côte d'Azur
 
                 ## Description Complète
-                <p>Le rendez-vous de la décarbonation des transports et de la ville apaisée ! Gomet’ organise pour la quatrième édition les Rencontres du vélo et des mobilités douces le 23 mai 2025 à La Coque, Marseille.<br>Une matinale consacrée à la construction d’une ville durable et apaisée en plein coeur de Marseille avec les acteurs publics et privés de la mobilité. Car les transports concentrent les enjeux d’attractivité économique, d’environnement, de santé et de bien-être, nous sommes convaincus que nos mobilités doivent se transformer, à l’instar des aménagements qui façonnent nos villes et nos territoires.<br>Pour cette raison, Gomet’ a créé les Rencontres du vélo et des mobilités douces, un carrefour d’échanges, de réflexion qui réunit les élus, collectivités, aménageurs, fabricants de vélos et de matériel, opérateurs de mobilités, associations d’usagers et citoyens pour mieux mettre en regard les enjeux et les pratiques, des autres villes et métropoles et faire se rencontrer les différentes parties prenantes sur les sujets prégnants.<br>Vous souhaitez contribuer à cet événement, nous soutenir ou vous engagez ? Écrivez-nous à <a href="mailto:contact@gomet.net">contact@gomet.net</a> ! Plus de détails sont à venir sur le programme.<br>Site web de l'événement : <a href="https://lesrencontresduvelo.com/">https://lesrencontresduvelo.com/</a><br>Lien d'inscription : <a href="https://my.weezevent.com/les-rencontres-du-velo-et-des-mobilites-douces-4eme-edition">https://my.weezevent.com/les-rencontres-du-velo-et-des-mobilites-douces-4eme-edition</a></p>
+                <p>Une proposition de La MaisonDAR et Les Écrans du Large, labellisée par la Saison Méditerranée 2026, qui réunit la jeunesse marseillaise et algérienne autour de la création documentaire et la musique.<br>Des sets qui mélangent mélodies diasporiques et riddims électroniques afro-caribéens, latinx, arabes et nord-africains. Au programme DJ + Host proposant des animations avec le public et un blind test raï.<br>Et tout au long de la soirée dans le site du Port antique, restauration food truck autour de la mer</p>
             

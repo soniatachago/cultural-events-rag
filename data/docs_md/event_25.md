@@ -1,13 +1,13 @@
-# Pauses musicales
+# INCUBATEUR pour accompagnement création d'entreprise- INTERFACE L'entreprenariat collaboratif
 
-                - Event_id : 97414127
-                - Type évènement : Musée de France;Monument historique;Sciences et techniques
-                - Date de début : 2025-05-17T17:30:00+00:00
-                - Date de fin : 2025-05-17T20:30:00+00:00
+                - Event_id : 59725309
+                - Type évènement : None
+                - Date de début : 2026-05-28T08:30:00+00:00
+                - Date de fin : 2026-05-28T11:00:00+00:00
                 - Ville : Marseille
-                - Lieu : Muséum d'histoire naturelle de Marseille
+                - Lieu : Marseille - Agence BLANCARDE
                 - Région : Provence-Alpes-Côte d'Azur
 
                 ## Description Complète
-                <p>Polyphonies proches et lointaines. Polyphonies traditionnelles et savantes De la Bulgarie à l'Afrique du Sud au Madrigal Italien avec l'ensemble Vocal EV’AMU d’Aix-Marseille Université, dirigé par Philippe Franceschi.<br>Chorale de chants du Monde avec Baéelika de la Maison du Chant à Marseille.</p>
+                <p>Dispositif innovant d'accompagnement à la création d'entreprise qui permet de tester et de développer un projet d'entreprise en situation réelle , sans s'immatriculer.</p> <p>Tester la viabilité et la rentabilité de votre projet au sein de la Couveuse. Vous ne savez pas si votre projet est viable ? Vous hésitez à vous lancer ? Interface vous propose de le tester et de l'aider à grandir à travers votre parcours dans la couveuse. En intégrant la couveuse Interface, vous serez par la suite accompagné dan</p>
             

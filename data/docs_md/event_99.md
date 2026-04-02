@@ -1,13 +1,13 @@
-# Vacances atypiques à 40 roues
+# RENDEZ-VOUS AVEC POSITIV (Accompagnement à la Création d'Entreprise)
 
-                - Event_id : 88648466
+                - Event_id : 83101215
                 - Type évènement : None
-                - Date de début : 2025-08-18T08:00:00+00:00
-                - Date de fin : 2025-08-18T15:00:00+00:00
+                - Date de début : 2026-04-22T10:00:00+00:00
+                - Date de fin : 2026-04-22T10:30:00+00:00
                 - Ville : Marseille
-                - Lieu : Centre social Kléber
+                - Lieu : Agence MARSEILLE BELLE DE MAI
                 - Région : Provence-Alpes-Côte d'Azur
 
                 ## Description Complète
-                <p>Dans le 3ème arrondissement de Marseille, au cœur du quartier Saint-Lazare, le centre social Kléber accueille et accompagne des dizaines de jeunes du coin qui se connaissent dès leur plus jeune âge. Le centre est à la fois leur repère et aussi l’endroit duquel on part ensemble à la découverte d’ailleurs. Cette année, le centre social Kléber entraîne 20 jeunes pour une traversée atypique : faire Marseille - Embrun en vélo.<br>Sortir du 3e arrondissement de Marseille pour gravir une partie des Alpes est une aventure sportive et humaine. En documentant d’une manière radiophonique et participative la préparation de cette traversée, les deux artistes accompagneront le groupe en les formant à la captation sonore et en recueillant aussi leur témoignages, ressentis. Ainsi, une série documentaire réalisée à plusieurs mains rendra compte de manière sensible de la préparation à ce voyage singulier au travers de leur portraits des membres de l'équipe, de moments de vie, leurs appréhensions et leurs liens et enfin, une certaine vision incarnée de l’adolescence.<br>Une traversée de Felix Pyat à Embrun, vacances atypiques à 40 roues.</p>
+                <p>Rencontre individuelle avec Cynthia Ouzahrir Conseillère Entrepreneuriat chez Positiv Demande de conseils ou d'accompagnement dans le cadre d'un projet de création d'une entreprise.</p> <p>Depuis sa création, la mission de Positiv est de défendre l'idée que le travail, salarié comme entrepreneurial, est l'étape nécessaire et préalable pour s'insérer socialement, économiquement et durablement dans la société. La mission de l'association est d'accompagner les personnes éloignées de l'emploi, quels que s</p>
             

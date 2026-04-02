@@ -1,13 +1,13 @@
-# Rouvrir le monde : Documentaire à la maison de la musique des 15-16 « Notre enfance »
+# Rejoignez la Métropole Aix-Marseille-Provence - métiers de la comptabilité, finance et juridique
 
-                - Event_id : 5980891
-                - Type évènement : Musique
-                - Date de début : 2025-07-01T07:00:00+00:00
-                - Date de fin : 2025-07-01T15:00:00+00:00
+                - Event_id : 45649157
+                - Type évènement : None
+                - Date de début : 2026-04-30T07:00:00+00:00
+                - Date de fin : 2026-04-30T10:00:00+00:00
                 - Ville : Marseille
-                - Lieu : 7 Traverse des Mûriers, 13016
+                - Lieu : Agence MARSEILLE SAINT CHARLES
                 - Région : Provence-Alpes-Côte d'Azur
 
                 ## Description Complète
-                <p>Durant deux semaines, de jeunes musiciens du 16 ème arrondissement de Marseille ont pu s'entrainer jour après jour en vue d'un concert qui se jouera en Octobre. Ce stage a donné lieu à un documentaire réalisé par Adrien Caulier, ancien étudiant aux ateliers de l'image et du son (A.I.S.), et encadré par l'association Transversarts.</p>
+                <p>Avant de vous inscrire, merci de vérifier que vous avez un CV téléchargé sur votre espace France Travail. A la demande du recruteur nous devons vérifier les prérequis. Vous êtes à la recherche d'une opportunité dans les domaines de la comptabilité, gestion, finance ou juridique ? Ne manquez pas cette occasion ! France Travail organise un événement de recrutement en partenariat avec la Métropole Aix-Marseille-Provence. Postes à pourvoir profil recherchés: Comptable Assistant(e) comptable Assistan</p>
             

@@ -1,13 +1,13 @@
-# Atelier de pratique artistique
+# Ambition Territoires : Objectif Talents EIFFAGE CONSTRUCTION
 
-                - Event_id : 1505205
+                - Event_id : 82782622
                 - Type évènement : None
-                - Date de début : 2025-07-14T14:00:00+00:00
-                - Date de fin : 2025-07-14T14:30:00+00:00
+                - Date de début : 2026-04-28T07:30:00+00:00
+                - Date de fin : 2026-04-28T08:30:00+00:00
                 - Ville : Marseille
-                - Lieu : centre social malpassé
+                - Lieu : Agence MARSEILLE MOUREPIANE
                 - Région : Provence-Alpes-Côte d'Azur
 
                 ## Description Complète
-                <p>Résidence au centre social Malpassé à Marseille du 7 au 18 juillet avec le plasticien Yoan Sorin. Projet de sensibilisation et d'expérimentation autour de la peinture et du volume avec un groupe d'enfant de 10 à 14 ans et deux animateurs et animatrices en soutien.</p>
+                <p>Un événement emploi ciblé et organisé pour faciliter la mise en relation entre entreprises et candidats sur plusieurs secteurs : BTP (majoritaire) Logistique / transport Tertiaire Objectif : proposer des opportunités concrètes (intérim, alternance, emplois directs) à des candidats prêts à l'emploi</p>
             

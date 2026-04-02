@@ -1,13 +1,13 @@
-# Visites commentées Collections
+# Création d'entreprise : toutes les infos utiles! au Carburateur.
 
-                - Event_id : 71341188
-                - Type évènement : Musée de France;Art moderne et contemporain;Photographie
-                - Date de début : 2025-05-17T17:00:00+00:00
-                - Date de fin : 2025-05-17T18:00:00+00:00
+                - Event_id : 95671434
+                - Type évènement : None
+                - Date de début : 2026-06-09T08:00:00+00:00
+                - Date de fin : 2026-06-09T10:00:00+00:00
                 - Ville : Marseille
-                - Lieu : MAC - Musée d'art contemporain
+                - Lieu : Agence MARSEILLE CAP PINEDE
                 - Région : Provence-Alpes-Côte d'Azur
 
                 ## Description Complète
-                <p>Nous vous proposons une rencontre avec les œuvres de la collection, à travers les différentes formes d’expression que nous proposent les artistes contemporains (dessin, vidéo, peinture, installation, sculptures).</p>
+                <p>L'agence FRANCE TRAVAIL Cap Pinède a le plaisir de vous inviter à son évènement porté sur la création d'entreprise au CARBURATEUR. Ce moment de convivialité nous permettra de vous informer sur votre Projet entrepreneurial. Impatients de vous retrouver, La Team Créa Cap Pinède !</p> <p>Nous vous attendons à 9h au Carburateur au 211 chemin de la madrague ville 13015 Marseille, pour une durée de 2h.</p>
             

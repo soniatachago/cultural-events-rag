@@ -1,13 +1,13 @@
-# Atelier mécanique participatif
+# Visite : Périls en Méditerranée à l’époque moderne
 
-                - Event_id : 4269716
-                - Type évènement : None
-                - Date de début : 2025-05-27T09:30:00+00:00
-                - Date de fin : 2025-05-27T12:00:00+00:00
+                - Event_id : 56590669
+                - Type évènement : Musée de France;Archéologie;Histoire
+                - Date de début : 2026-05-23T19:00:00+00:00
+                - Date de fin : 2026-05-23T20:00:00+00:00
                 - Ville : Marseille
-                - Lieu : CAF des BDR
+                - Lieu : Musée d'histoire de Marseille
                 - Région : Provence-Alpes-Côte d'Azur
 
                 ## Description Complète
-                <p>Objectifs</p> <ul> <li>Gagner en autonomie sur l'entretien à la réparation de son propre vélo</li> <li>Être sensibilisé au bon entretien de son vélo (pression des pneus, huilage de la chaîne, vérification des freins…)</li> <li>Connaître les équipements obligatoires du vélo</li> <li>Obtenir des conseils pour les réglages ergonomiques et le confort</li> </ul>
+                <p>L’histoire du port de Marseille de la Renaissance à la Révolution Française est semée d’embûches. Piraterie, exploitation, épidémies… Les collections des Temps modernes nous racontent une histoire complexe de la ville-monde.<br>Accès libre dans la limite des places disponibles. Attention jauge limitée.</p>
             

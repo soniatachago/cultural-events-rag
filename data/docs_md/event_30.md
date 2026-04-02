@@ -1,13 +1,13 @@
-# Test de vélos à assistance électrique
+# Rendez-vous avez POSITIV (Accompagnement à la création d'entreprise)
 
-                - Event_id : 90381725
+                - Event_id : 6681742
                 - Type évènement : None
-                - Date de début : 2025-05-20T10:00:00+00:00
-                - Date de fin : 2025-05-20T11:30:00+00:00
+                - Date de début : 2026-05-27T13:00:00+00:00
+                - Date de fin : 2026-05-27T13:45:00+00:00
                 - Ville : Marseille
-                - Lieu : CAF des BDR
+                - Lieu : Agence MARSEILLE SAINT CHARLES
                 - Région : Provence-Alpes-Côte d'Azur
 
                 ## Description Complète
-                <p>Objectifs :</p> <ul> <li>Prendre en main un VAE et/ou un VCAE,</li> <li>Être en mesure d’adapter sa conduite (allure, anticipation, distance de freinage...).</li> </ul> <p>Contenu :</p> <ul> <li>Les particularités de la conduite du VAE/VCAE,</li> <li>Les fonctionnalités et l’entretien du VAE/VCAE,</li> <li>Pratique en espace protégé : maniabilité, exercices.</li> </ul>
+                <p>Rencontre individuelle avec Cynthia OUZAHRIR Conseillère Entrepreneuriat à POSITIV . Demande de conseils ou d'accompagnement dans le cadre d'un projet de création d'une entreprise.</p> <p>Depuis sa création, la mission de Positiv est de défendre l'idée que le travail, salarié comme entrepreneurial, est l'étape nécessaire et préalable pour s'insérer socialement, économiquement et durablement dans la société. La mission de l'association est d'accompagner les personnes éloignées de l'emploi, quels que so</p>
             

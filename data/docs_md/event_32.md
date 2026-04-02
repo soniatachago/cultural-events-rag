@@ -1,13 +1,13 @@
-# Webinaire : Atelier votre publicité Meta en 1h (Facebook & Instagram) - CMA PACA
+# Augmenter la productivité des TPE et PME avec l'IA
 
-                - Event_id : 66761024
+                - Event_id : 40855304
                 - Type évènement : None
-                - Date de début : 2025-05-22T10:30:00+00:00
-                - Date de fin : 2025-05-22T11:30:00+00:00
+                - Date de début : 2026-05-26T08:00:00+00:00
+                - Date de fin : 2026-05-26T09:00:00+00:00
                 - Ville : Marseille
-                - Lieu : CMA PACA
+                - Lieu : Webinaire
                 - Région : Provence-Alpes-Côte d'Azur
 
                 ## Description Complète
-                <p>La Meta Business Suite, c'est l'interface du groupe Meta (Facebook &amp; Instagram) pour gérer ses comptes professionnels. C'est à cet endroit que l'on va faire ses publicités.</p> <p><strong>Aujourd'hui, plus besoin d'être un pro du webmarketing pour réaliser une campagne</strong>. Vous allez voir que l'interface est devenue très intuitive. Vous avez déjà pensé à essayer la pub pour ramener des clients ? On vous guide pas à pas dans ce webinaire d'1h</p> <p><a href="https://forms.gle/VMjhefyqQX5uakKR9"><strong>&gt;&gt; Inscription</strong></a></p>
+                <p>Au programme :</p> <p>Comprendre les bénéfices pratiques et accessibles de l’IA<br>Identifier les outils adaptés aux petites structures<br>Explorer des cas d’usage simples pour gagner en efficacité</p>
             

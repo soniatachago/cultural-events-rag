@@ -1,13 +1,13 @@
-# Concert au musée Cantini avec Oliver Foster
+# Entreprendre et s'insérer: optimiser son lancement - au CARBURATEUR
 
-                - Event_id : 63936369
-                - Type évènement : Musée de France;Art moderne et contemporain
-                - Date de début : 2025-05-17T17:00:00+00:00
-                - Date de fin : 2025-05-17T20:00:00+00:00
+                - Event_id : 55760407
+                - Type évènement : None
+                - Date de début : 2026-06-11T08:00:00+00:00
+                - Date de fin : 2026-06-11T10:00:00+00:00
                 - Ville : Marseille
-                - Lieu : Musée Cantini
+                - Lieu : Agence MARSEILLE CAP PINEDE
                 - Région : Provence-Alpes-Côte d'Azur
 
                 ## Description Complète
-                <p>CONCERT<br>A 19h, 21h et 22h&nbsp;: 3 sessions (30 min / session)<br>Oliver Foster est un musicien franco-britannique basé à Marseille, à la croisée des genres. Après un parcours dans la recherche académique et une immersion dans la scène musicale expérimentale française, il revient à une pratique musicale personnelle avec des enregistrements comme l'œil dans le bleu (2023), V3 rouge (2024) et Square one (2024). Sa musique mêle guitare électrique, synthés réverbérés, voix brute et chant choral, créant une atmosphère à la frontière du rock alternatif et de l'expérimental. Il a participé à de nombreux concerts, incluant des passages au festival Déroutes à Nantes et une résidence à l’Aide aux Musiques innovatrices (Marseille), enrichissant sa scène live aux côtés de Nave Amiga, Yann et Musique Chienne. Cofondateur du label Cimetières de France, Oliver Foster a également vu sa musique diffusée sur des plateformes comme NTS, renforçant sa présence sur la scène alternative.</p> <p>Des points paroles seront organisés par les médiatrices culturelles du musée dans le parcours de la collection permanente.</p>
+                <p>L'agence Pôle emploi Cap Pinède a le plaisir de vous inviter à son évènement porté sur la création d'entreprise au CARBURATEUR. Ce moment de convivialité nous permettra de vous informer sur: Les opportunités d'accompagnement pour votre projet Les aides pour vos futurs recrutements L'optimisation de l'embauche en tant que futur ou nouvel employeur. Bien déclarer votre activité à France Travail Impatients de vous retrouver, La Team Créa Cap Pinède !</p> <p>Nous vous attendons à 9h au Carburateur au 211</p>
             

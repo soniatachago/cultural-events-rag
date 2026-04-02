@@ -1,13 +1,13 @@
-# Célébrons les Producteurs de chez nous au U Express Marseille E.Pierre
+# Projection de restitution de l'Atelier de Programmation Croisé Marseille / Alger : « Ports d'attaches»
 
-                - Event_id : 12420032
-                - Type évènement : None
-                - Date de début : 2025-06-07T07:00:00+00:00
-                - Date de fin : 2025-06-07T17:00:00+00:00
+                - Event_id : 68372632
+                - Type évènement : Musée de France;Archéologie;Histoire
+                - Date de début : 2026-05-23T17:00:00+00:00
+                - Date de fin : 2026-05-23T18:30:00+00:00
                 - Ville : Marseille
-                - Lieu : U Express Marseille E.pierre
+                - Lieu : Musée d'histoire de Marseille
                 - Région : Provence-Alpes-Côte d'Azur
 
                 ## Description Complète
-                <p>" Ce samedi 7 juin, votre magasin U vous propose de faire un don pour accompagner les agriculteurs dans la réalisation de leurs projets. Les sommes récoltées seront reversées à l'association Les Agriculteurs ont du cœur, qui encourage les actions positives en faveur du monde agricole. Chaque montant donné sera doublé par votre magasin U. "</p>
+                <p>Pour cette projection d'1 heure de courts métrages documentaires, soyez spectateur d'une programmation établie par un groupe de huit jeunes marseillais et algériens dans le cadre des ateliers du programme TiLEM.<br>En présence des jeunes programmateurs TiLEM des deux rives.</p> <p>Une proposition de La MaisonDAR et Les Écrans du Large, labellisée par la Saison Méditerranée 2026, qui réunit la jeunesse marseillaise et algérienne autour de la création documentaire et la musique.<br>Accès libre pour l’ensemble des activités dans la limite des places disponibles.<br>Et tout au long de la soirée dans le site du Port antique, restauration food truck autour de la mer</p>
             
